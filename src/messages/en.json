@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "title": "Cardium — Virtual Cards for Media Buyers | Instant Visa Cards for Google Ads, Meta & TikTok",
+    "description": "Issue unlimited virtual Visa cards in seconds. Top up any amount from $100 to $10,000+. Built for Google Ads, Meta, TikTok, and every ad platform. Fund with crypto, pay everywhere."
+  },
+  "nav": {
+    "virtualCards": "Virtual Cards",
+    "rates": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog",
+    "signIn": "Sign In",
+    "signUp": "Get Started"
+  },
+  "hero": {
+    "badge": "Trusted by 10,000+ media buyers worldwide",
+    "titleLine1": "Your Ad Spend,",
+    "titleLine2": "Supercharged",
+    "subtitle": "Issue unlimited virtual Visa cards in seconds. Top up any amount — $100, $500, or $10,000 — and start spending instantly on Google Ads, Meta, TikTok, and every ad platform. Fund with crypto, manage your balance, scale without limits.",
+    "cta": "Start Free",
+    "ctaSecondary": "View Pricing",
+    "socialProof": "Join 10,000+ buyers",
+    "rating": "4.9",
+    "stats": {
+      "cards": "Cards Issued",
+      "cardsValue": "2M+",
+      "volume": "Monthly Volume",
+      "volumeValue": "$500M+",
+      "uptime": "Uptime",
+      "uptimeValue": "99.99%",
+      "countries": "Countries",
+      "countriesValue": "150+"
+    }
+  },
+  "logos": {
+    "title": "Trusted by teams at"
+  },
+  "features": {
+    "sectionTag": "Features",
+    "title": "Everything you need to scale your ad spend",
+    "subtitle": "A complete virtual card infrastructure built for modern marketing teams. From instant card issuing to advanced analytics, Cardium gives you full control over every dollar.",
+    "items": {
+      "instantCards": {
+        "title": "Instant Card Issuing",
+        "description": "Create unlimited virtual Visa cards in seconds. Each card gets its own BIN, balance, and granular spending controls. Perfect for isolating campaigns and tracking spend per account."
+      },
+      "cryptoTopUp": {
+        "title": "Flexible Top-Up",
+        "description": "Top up your balance with any amount — from $100 to $10,000+. Fund via 30+ cryptocurrencies including BTC, ETH, USDT, and all major stablecoins. Instant conversion at competitive rates."
+      },
+      "teamAccounts": {
+        "title": "Team Management",
+        "description": "Distribute cards and budgets across your entire team. Set role-based access controls, individual spending limits, and monitor all card activity in real-time from one dashboard."
+      },
+      "api": {
+        "title": "Powerful REST API",
+        "description": "Full REST API for programmatic card management, balance operations, transaction history, and webhook notifications. Build custom automations and integrate with your existing tools."
+      },
+      "analytics": {
+        "title": "Advanced Analytics",
+        "description": "Track spend patterns across campaigns, monitor ROI per ad account, and export detailed reports. Real-time dashboards with custom alerts keep you informed."
+      },
+      "security": {
+        "title": "3DS Security",
+        "description": "Every transaction is protected with 3D Secure 2.0 authentication. Our PCI DSS Level 1 compliant infrastructure ensures your funds and data are always safe."
+      }
+    }
+  },
+  "benefits": {
+    "sectionTag": "Why Cardium",
+    "title": "Built for performance marketers",
+    "subtitle": "Every feature is designed to help you spend smarter, scale faster, and stay in complete control of your advertising budgets.",
+    "items": {
+      "speed": {
+        "title": "Lightning-Fast Card Issuing",
+        "description": "Stop waiting for bank approvals. Create virtual cards instantly and start running campaigns in minutes, not days. Our streamlined process means you never miss an opportunity.",
+        "points": [
+          "Issue cards in under 3 seconds",
+          "No paperwork or bank visits required",
+          "Instant activation for all major ad platforms",
+          "Set custom spending limits per card"
+        ]
+      },
+      "global": {
+        "title": "Global Coverage, Local Performance",
+        "description": "Run campaigns in 150+ countries with cards that work everywhere. Our multi-BIN infrastructure ensures high approval rates on every ad platform, regardless of geography.",
+        "points": [
+          "Accepted on all major ad networks worldwide",
+          "Multi-currency support with real-time conversion",
+          "Localized BINs for higher approval rates",
+          "Zero foreign transaction fees"
+        ]
+      },
+      "automation": {
+        "title": "Automated Spend Management",
+        "description": "Set up rules and let Cardium handle the rest. Automatic top-ups, budget alerts, and card rotation keep your campaigns running smoothly around the clock.",
+        "points": [
+          "Auto top-up when balance runs low",
+          "Scheduled card creation and rotation",
+          "Smart budget allocation across campaigns",
+          "Webhook notifications for every transaction"
+        ]
+      },
+      "growth": {
+        "title": "Scale Without Limits",
+        "description": "Whether you're managing 10 cards or 10,000, Cardium grows with you. Top up your balance with any amount and create as many cards as you need.",
+        "points": [
+          "Unlimited virtual cards",
+          "Top up any amount, any time",
+          "No cap on monthly transaction volume",
+          "Custom integrations and white-label options"
+        ]
+      }
+    }
+  },
+  "integrations": {
+    "sectionTag": "Integrations",
+    "title": "Works with every platform you use",
+    "subtitle": "Cardium cards are accepted on all major advertising and e-commerce platforms out of the box.",
+    "platforms": {
+      "google": "Google Ads",
+      "meta": "Meta Ads",
+      "tiktok": "TikTok Ads",
+      "amazon": "Amazon Ads",
+      "microsoft": "Microsoft Ads",
+      "snapchat": "Snapchat Ads",
+      "pinterest": "Pinterest Ads",
+      "shopify": "Shopify"
+    },
+    "more": "...and 100+ more platforms supported"
+  },
+  "comparison": {
+    "sectionTag": "Compare",
+    "title": "See how Cardium stacks up",
+    "subtitle": "We built Cardium to be the best virtual card platform for media buyers. Here's how we compare.",
+    "featureLabel": "Feature",
+    "competitors": {
+      "cardium": "Cardium",
+      "competitorA": "Competitor A",
+      "competitorB": "Competitor B"
+    },
+    "features": {
+      "instantIssuing": "Instant Card Issuing",
+      "cryptoFunding": "Crypto Funding",
+      "unlimitedCards": "Unlimited Cards",
+      "teamManagement": "Team Management",
+      "apiAccess": "Full API Access",
+      "flexibleTopUp": "Flexible Top-Up (any amount)",
+      "realTimeAnalytics": "Real-Time Analytics",
+      "dedicatedSupport": "Dedicated Support"
+    },
+    "values": {
+      "instantIssuing": { "cardium": true, "competitorA": true, "competitorB": false },
+      "cryptoFunding": { "cardium": true, "competitorA": false, "competitorB": false },
+      "unlimitedCards": { "cardium": true, "competitorA": false, "competitorB": true },
+      "teamManagement": { "cardium": true, "competitorA": true, "competitorB": false },
+      "apiAccess": { "cardium": true, "competitorA": false, "competitorB": true },
+      "flexibleTopUp": { "cardium": true, "competitorA": false, "competitorB": false },
+      "realTimeAnalytics": { "cardium": true, "competitorA": true, "competitorB": false },
+      "dedicatedSupport": { "cardium": true, "competitorA": false, "competitorB": true }
+    }
+  },
+  "howItWorks": {
+    "sectionTag": "How It Works",
+    "title": "Get started in minutes, not days",
+    "steps": {
+      "register": {
+        "title": "Create Your Account",
+        "description": "Sign up in under 2 minutes with just your email. No paperwork, no waiting, no credit checks required."
+      },
+      "fund": {
+        "title": "Top Up Any Amount",
+        "description": "Add $100, $500, $5,000 — whatever your campaigns need. Fund via 30+ cryptocurrencies or wire transfer. Balance is available instantly."
+      },
+      "spend": {
+        "title": "Issue Cards & Scale",
+        "description": "Create unlimited virtual cards from your balance and start running campaigns on any platform worldwide. Full control, zero friction."
+      }
+    }
+  },
+  "rates": {
+    "sectionTag": "Pricing",
+    "title": "Pay as you go. No monthly fees.",
+    "subtitle": "No subscriptions, no tiers, no hidden fees. Simply top up your balance with any amount and start issuing cards. You only pay for what you use.",
+    "topUpLabel": "Top up any amount",
+    "customAmount": "Custom $",
+    "topUpDescription": "Choose any amount that fits your campaigns. Your balance is available instantly after top-up. Create unlimited cards and distribute funds as you need.",
+    "topUpCta": "Top Up & Start Spending",
+    "highlights": [
+      {
+        "title": "Card Creation",
+        "value": "Free",
+        "description": "Issue unlimited virtual Visa cards at no extra cost from your balance"
+      },
+      {
+        "title": "Top-Up Fee",
+        "value": "3%",
+        "description": "Simple flat fee on crypto deposits. No monthly fees, no surprises"
+      },
+      {
+        "title": "Minimum Top-Up",
+        "value": "$100",
+        "description": "Start small and scale up. No maximum limit on your balance"
+      }
+    ],
+    "includesTitle": "Everything included with every top-up",
+    "features": [
+      "Unlimited virtual Visa cards",
+      "30+ crypto top-up options",
+      "Real-time transaction analytics",
+      "Team management & roles",
+      "Full REST API access",
+      "Webhook notifications",
+      "Multi-BIN infrastructure",
+      "3D Secure 2.0 protection",
+      "Dedicated support",
+      "Custom spending limits per card"
+    ],
+    "cta": "See Full Pricing"
+  },
+  "testimonials": {
+    "sectionTag": "What our customers say",
+    "title": "Trusted by performance marketers worldwide",
+    "items": [
+      {
+        "name": "Sarah Chen",
+        "role": "Head of Media Buying",
+        "company": "AdScale",
+        "content": "Cardium transformed our ad spend workflow. We went from managing 50 cards manually to 500+ cards with automated controls. The time savings alone paid for itself in the first week. Absolute game changer for any serious media buyer.",
+        "avatar": "SC"
+      },
+      {
+        "name": "Marcus Rodriguez",
+        "role": "CEO",
+        "company": "ClickFlow Agency",
+        "content": "The flexible top-up model is perfect — we just add funds when we need them. No monthly fees eating into our margins. Plus, the crypto funding saves us thousands in conversion fees every month.",
+        "avatar": "MR"
+      },
+      {
+        "name": "Elena Volkova",
+        "role": "Finance Director",
+        "company": "MediaHouse",
+        "content": "Finally, a payment platform that truly understands media buyers. The real-time analytics, spending controls, and multi-BIN support are exactly what our 40-person team needed to scale confidently.",
+        "avatar": "EV"
+      },
+      {
+        "name": "James Park",
+        "role": "Performance Lead",
+        "company": "GrowthPulse",
+        "content": "We tested every virtual card provider on the market. Cardium had the highest approval rates, the fastest card issuing, and the best support team. We moved our entire operation over in a weekend.",
+        "avatar": "JP"
+      },
+      {
+        "name": "Ana Petrova",
+        "role": "COO",
+        "company": "AdVenture Media",
+        "content": "Managing ad spend across 12 countries used to be a nightmare. Cardium's multi-currency support and localized BINs solved that completely. Our approval rates went from 78% to 97%.",
+        "avatar": "AP"
+      },
+      {
+        "name": "David Kim",
+        "role": "CTO",
+        "company": "ScaleUp Digital",
+        "content": "The API is beautifully designed. We built a custom dashboard on top of Cardium that auto-creates cards, sets budgets, and rotates payment methods — all programmatically. Incredible platform.",
+        "avatar": "DK"
+      }
+    ]
+  },
+  "security": {
+    "sectionTag": "Security",
+    "title": "Enterprise-grade security you can trust",
+    "subtitle": "Your funds and data are protected by the highest industry security standards. We take compliance seriously so you can focus on growing your business.",
+    "badges": {
+      "pci": { "title": "PCI DSS Level 1", "description": "Highest level of payment card industry security compliance, audited annually" },
+      "3ds": { "title": "3D Secure 2.0", "description": "Advanced authentication protocol that protects every single transaction" },
+      "encryption": { "title": "256-bit Encryption", "description": "Military-grade AES-256 encryption for all data at rest and in transit" },
+      "soc2": { "title": "SOC 2 Type II", "description": "Independently audited security controls, processes, and infrastructure" }
+    }
+  },
+  "faq": {
+    "sectionTag": "FAQ",
+    "title": "Frequently asked questions",
+    "items": {
+      "q1": {
+        "question": "How quickly can I issue a virtual card?",
+        "answer": "Instantly. Once your account is funded, you can create unlimited virtual cards in just a few clicks. Most users issue their first card within 3 minutes of signing up."
+      },
+      "q2": {
+        "question": "How does top-up work?",
+        "answer": "Simply choose any amount starting from $100 and fund via 30+ cryptocurrencies including BTC, ETH, USDT, and USDC. Your balance is available instantly after confirmation. There are no monthly fees — you only pay a simple 3% top-up fee on crypto deposits."
+      },
+      "q3": {
+        "question": "Is there a minimum or maximum top-up amount?",
+        "answer": "The minimum top-up is $100. There is no maximum — top up $100, $1,000, or $50,000 depending on your campaign needs. Your full balance is available immediately to create cards and start spending."
+      },
+      "q4": {
+        "question": "How does team management work?",
+        "answer": "You can invite team members, assign roles (admin, manager, viewer), set individual spending limits per person or per card, and monitor all card activity in real-time from your centralized dashboard."
+      },
+      "q5": {
+        "question": "What ad platforms are supported?",
+        "answer": "Cardium cards work with all major ad platforms including Google Ads, Meta Ads, TikTok Ads, Microsoft Ads, Snapchat, Pinterest, Amazon Ads, and 100+ more. Our multi-BIN infrastructure ensures high approval rates everywhere."
+      },
+      "q6": {
+        "question": "Can I use Cardium for non-advertising purchases?",
+        "answer": "Yes! While Cardium is optimized for media buying, our virtual Visa cards work everywhere Visa is accepted — SaaS subscriptions, e-commerce, hosting, and more."
+      },
+      "q7": {
+        "question": "Which cryptocurrencies do you support for top-up?",
+        "answer": "We support 30+ cryptocurrencies including BTC, ETH, USDT (TRC20 & ERC20), USDC, and all major stablecoins. Conversion is instant and rates are updated in real-time with no hidden markups."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to supercharge your ad spend?",
+    "subtitle": "Join thousands of media buyers who are already scaling their campaigns with Cardium. Top up any amount and start issuing cards in minutes.",
+    "button": "Start Free Today"
+  },
+  "footer": {
+    "description": "Virtual card infrastructure for modern marketing teams. Issue unlimited cards, fund with crypto, and scale campaigns without limits. Top up any amount, create cards instantly. Your cards. Your rules.",
+    "products": "Products",
+    "company": "Company",
+    "legal": "Legal",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "newsletter": "Stay Updated",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "rights": "All rights reserved.",
+    "virtualCards": "Virtual Cards",
+    "cryptoTopUp": "Crypto Top-Up",
+    "apiAccess": "API Access",
+    "teamManagement": "Team Management",
+    "aboutUs": "About Us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About Cardium",
+    "subtitle": "We're building the future of digital payments for modern marketing teams. Our mission is to make virtual card infrastructure accessible, powerful, and easy to use for businesses of every size.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To democratize access to virtual card infrastructure, enabling businesses of all sizes to scale their digital ad spend with confidence, security, and transparency. We believe every media buyer — from solo freelancers to enterprise agencies — deserves powerful payment tools without complexity or monthly fees."
+    },
+    "story": {
+      "title": "Our Story",
+      "description": "Founded by a team of fintech veterans and media buying experts, Cardium was born from a simple frustration: existing payment solutions weren't built for the speed and scale that modern digital marketing demands. After years of dealing with slow bank approvals, limited card counts, rigid pricing tiers, and opaque fees, we set out to build something better — a platform where you top up any amount and start spending immediately."
+    },
+    "values": {
+      "title": "Our Values",
+      "transparency": { "title": "Transparency", "description": "No hidden fees, no monthly subscriptions, no surprises. A simple top-up fee is all you pay. We publish our rates openly." },
+      "innovation": { "title": "Innovation", "description": "We push the boundaries of what's possible in digital payments with cutting-edge technology and multi-BIN infrastructure." },
+      "security": { "title": "Security First", "description": "Your trust is our foundation. PCI DSS Level 1, 3D Secure 2.0, and 256-bit encryption protect every transaction and every dollar." },
+      "support": { "title": "Customer Focus", "description": "Your success is our success. We provide dedicated support whenever you need us, 24/7, with real humans who understand media buying." }
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "Cardium is built by a globally distributed team of 50+ engineers, fintech specialists, and marketing experts. We've processed over $500M in monthly volume and issued 2M+ virtual cards for media buyers across 150+ countries."
+    },
+    "whyUs": {
+      "title": "Why Media Buyers Choose Cardium",
+      "items": [
+        "No monthly fees or subscriptions — pay only when you top up",
+        "Instant card issuing with multi-BIN support for high approval rates",
+        "30+ cryptocurrencies accepted for funding your balance",
+        "Real-time analytics and spending controls for every card",
+        "Trusted by 10,000+ media buyers managing $500M+ monthly"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions about Cardium? Need help with your account, top-ups, or card management? We'd love to hear from you. Our team typically responds within 2 hours during business hours.",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully! We'll get back to you soon.",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": {
+      "email": "hello@cardium.io",
+      "support": "support@cardium.io",
+      "address": "123 Fintech Street, San Francisco, CA 94105"
+    },
+    "helpTopics": {
+      "title": "Common Topics",
+      "items": [
+        { "title": "Account & Top-Up", "description": "Questions about funding your balance, crypto deposits, or account verification" },
+        { "title": "Card Management", "description": "Help with creating, freezing, or managing virtual cards and spending limits" },
+        { "title": "API & Integrations", "description": "Technical questions about our REST API, webhooks, or third-party integrations" },
+        { "title": "Partnerships", "description": "Interested in bulk pricing, white-label solutions, or becoming a Cardium partner" }
+      ]
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Insights, guides, and updates from the Cardium team. Learn how to optimize your ad spend, manage virtual cards at scale, and grow your media buying business.",
+    "posts": [
+      {
+        "slug": "virtual-cards-media-buying-2025",
+        "title": "Why Virtual Cards Are Essential for Media Buying in 2025",
+        "excerpt": "Discover how virtual cards streamline ad spend management, protect your business from fraud, and give you granular control over every dollar spent on Google Ads, Meta, TikTok, and beyond.",
+        "date": "2025-01-15",
+        "tag": "Guide",
+        "readTime": "8 min read"
+      },
+      {
+        "slug": "crypto-top-up-guide",
+        "title": "The Complete Guide to Crypto Top-Ups for Ad Spend",
+        "excerpt": "Everything you need to know about funding your virtual card balance with cryptocurrency. From BTC and ETH to USDT stablecoins — step-by-step instructions and best practices.",
+        "date": "2025-01-10",
+        "tag": "Tutorial",
+        "readTime": "6 min read"
+      },
+      {
+        "slug": "team-spend-management",
+        "title": "Scaling Team Spend Management Without the Chaos",
+        "excerpt": "How growing agencies can manage hundreds of cards across distributed teams efficiently. Role-based access, per-card limits, and real-time monitoring strategies.",
+        "date": "2025-01-05",
+        "tag": "Best Practices",
+        "readTime": "7 min read"
+      },
+      {
+        "slug": "google-ads-virtual-cards",
+        "title": "How to Set Up Virtual Cards for Google Ads Campaigns",
+        "excerpt": "A step-by-step guide to creating and managing virtual Visa cards specifically for Google Ads. Tips for maximizing approval rates and isolating campaign budgets.",
+        "date": "2024-12-20",
+        "tag": "Tutorial",
+        "readTime": "5 min read"
+      },
+      {
+        "slug": "approval-rates-optimization",
+        "title": "How to Achieve 97%+ Approval Rates on Ad Platforms",
+        "excerpt": "Multi-BIN infrastructure, localized card issuing, and smart spending patterns — the strategies top media buyers use to minimize declines and maximize uptime.",
+        "date": "2024-12-15",
+        "tag": "Strategy",
+        "readTime": "9 min read"
+      },
+      {
+        "slug": "cardium-api-automation",
+        "title": "Automate Your Ad Spend with the Cardium REST API",
+        "excerpt": "Learn how to programmatically create cards, set budgets, and manage balances using the Cardium API. Code examples in Python, Node.js, and cURL.",
+        "date": "2024-12-10",
+        "tag": "Developer",
+        "readTime": "10 min read"
+      }
+    ]
+  }
+}

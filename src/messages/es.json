@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "title": "Cardium — Tarjetas Virtuales para Media Buyers | Visa instantáneas para Google Ads, Meta y TikTok",
+    "description": "Emita tarjetas virtuales Visa ilimitadas en segundos. Recargue cualquier monto desde $100 hasta $10,000+. Hecho para Google Ads, Meta, TikTok y cada plataforma publicitaria."
+  },
+  "nav": {
+    "virtualCards": "Tarjetas Virtuales",
+    "rates": "Precios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "signIn": "Iniciar Sesión",
+    "signUp": "Comenzar"
+  },
+  "hero": {
+    "badge": "Más de 10,000 media buyers confían en nosotros",
+    "titleLine1": "Tu gasto publicitario,",
+    "titleLine2": "Potenciado",
+    "subtitle": "Emite tarjetas virtuales Visa ilimitadas en segundos. Recarga cualquier monto — $100, $500 o $10,000 — y comienza a gastar al instante en Google Ads, Meta, TikTok y toda plataforma publicitaria.",
+    "cta": "Comienza Gratis",
+    "ctaSecondary": "Ver Precios",
+    "socialProof": "Únete a 10,000+ buyers",
+    "rating": "4.9",
+    "stats": {
+      "cards": "Tarjetas Emitidas",
+      "cardsValue": "2M+",
+      "volume": "Volumen Mensual",
+      "volumeValue": "$500M+",
+      "uptime": "Tiempo Activo",
+      "uptimeValue": "99.99%",
+      "countries": "Países",
+      "countriesValue": "150+"
+    }
+  },
+  "logos": {
+    "title": "Empresas líderes confían en nosotros"
+  },
+  "features": {
+    "sectionTag": "Características",
+    "title": "Todo lo que necesitas para escalar tu gasto publicitario",
+    "subtitle": "Una infraestructura completa de tarjetas virtuales para equipos de marketing modernos. Control total sobre cada dólar.",
+    "items": {
+      "instantCards": {
+        "title": "Emisión Instantánea",
+        "description": "Crea tarjetas virtuales Visa ilimitadas en segundos. Cada tarjeta tiene su propio BIN, saldo y controles granulares de gasto."
+      },
+      "cryptoTopUp": {
+        "title": "Recarga Flexible",
+        "description": "Recarga tu saldo con cualquier monto — desde $100 hasta $10,000+. Fondea con 30+ criptomonedas incluyendo BTC, ETH, USDT y todas las stablecoins principales. Conversión instantánea."
+      },
+      "teamAccounts": {
+        "title": "Gestión de Equipos",
+        "description": "Distribuye tarjetas y presupuestos en tu equipo. Acceso por roles, límites individuales y monitoreo en tiempo real desde un panel centralizado."
+      },
+      "api": {
+        "title": "API REST Potente",
+        "description": "API REST completa para gestión programática de tarjetas, operaciones de saldo, historial de transacciones y webhooks."
+      },
+      "analytics": {
+        "title": "Analítica Avanzada",
+        "description": "Rastrea patrones de gasto por campaña, monitorea ROI y exporta informes detallados. Paneles en tiempo real con alertas personalizadas."
+      },
+      "security": {
+        "title": "Seguridad 3DS",
+        "description": "Cada transacción protegida con autenticación 3D Secure 2.0. Infraestructura PCI DSS Nivel 1."
+      }
+    }
+  },
+  "benefits": {
+    "sectionTag": "Por qué Cardium",
+    "title": "Construido para marketers de performance",
+    "subtitle": "Cada función está diseñada para ayudarte a gastar de forma más inteligente, escalar más rápido y mantener el control total de tus presupuestos.",
+    "items": {
+      "speed": {
+        "title": "Emisión ultrarrápida de tarjetas",
+        "description": "Deja de esperar aprobaciones bancarias. Crea tarjetas virtuales al instante y lanza campañas en minutos, no días.",
+        "points": [
+          "Emite tarjetas en menos de 3 segundos",
+          "Sin papeleo ni visitas al banco",
+          "Activación instantánea para todas las plataformas",
+          "Límites de gasto personalizados por tarjeta"
+        ]
+      },
+      "global": {
+        "title": "Cobertura global, rendimiento local",
+        "description": "Ejecuta campañas en 150+ países con tarjetas que funcionan en todas partes. Infraestructura multi-BIN para altas tasas de aprobación.",
+        "points": [
+          "Aceptada en todas las redes publicitarias",
+          "Soporte multi-moneda con conversión en tiempo real",
+          "BINs localizados para mayores tasas de aprobación",
+          "Cero comisiones por transacciones extranjeras"
+        ]
+      },
+      "automation": {
+        "title": "Gestión automatizada del gasto",
+        "description": "Configura reglas y deja que Cardium haga el resto. Recargas automáticas y alertas mantienen tus campañas activas 24/7.",
+        "points": [
+          "Recarga automática cuando el saldo es bajo",
+          "Creación y rotación programada de tarjetas",
+          "Asignación inteligente de presupuesto",
+          "Webhooks para cada transacción"
+        ]
+      },
+      "growth": {
+        "title": "Escala sin límites",
+        "description": "Ya sea que gestiones 10 o 10,000 tarjetas, Cardium crece contigo. Recarga tu saldo con cualquier monto y crea tantas tarjetas como necesites.",
+        "points": [
+          "Tarjetas virtuales ilimitadas",
+          "Recarga cualquier monto, en cualquier momento",
+          "Sin tope en el volumen mensual",
+          "Integraciones personalizadas y white-label"
+        ]
+      }
+    }
+  },
+  "integrations": {
+    "sectionTag": "Integraciones",
+    "title": "Funciona con cada plataforma que usas",
+    "subtitle": "Las tarjetas Cardium son aceptadas en todas las principales plataformas publicitarias y de e-commerce.",
+    "platforms": {
+      "google": "Google Ads",
+      "meta": "Meta Ads",
+      "tiktok": "TikTok Ads",
+      "amazon": "Amazon Ads",
+      "microsoft": "Microsoft Ads",
+      "snapchat": "Snapchat Ads",
+      "pinterest": "Pinterest Ads",
+      "shopify": "Shopify"
+    },
+    "more": "...y más de 100 plataformas compatibles"
+  },
+  "comparison": {
+    "sectionTag": "Comparación",
+    "title": "Compara Cardium con la competencia",
+    "subtitle": "Construimos Cardium para ser la mejor plataforma de tarjetas virtuales para media buyers.",
+    "featureLabel": "Característica",
+    "competitors": {
+      "cardium": "Cardium",
+      "competitorA": "Competidor A",
+      "competitorB": "Competidor B"
+    },
+    "features": {
+      "instantIssuing": "Emisión instantánea",
+      "cryptoFunding": "Fondeo con cripto",
+      "unlimitedCards": "Tarjetas ilimitadas",
+      "teamManagement": "Gestión de equipos",
+      "apiAccess": "Acceso API completo",
+      "flexibleTopUp": "Recarga flexible (cualquier monto)",
+      "realTimeAnalytics": "Analítica en tiempo real",
+      "dedicatedSupport": "Soporte dedicado"
+    },
+    "values": {
+      "instantIssuing": { "cardium": true, "competitorA": true, "competitorB": false },
+      "cryptoFunding": { "cardium": true, "competitorA": false, "competitorB": false },
+      "unlimitedCards": { "cardium": true, "competitorA": false, "competitorB": true },
+      "teamManagement": { "cardium": true, "competitorA": true, "competitorB": false },
+      "apiAccess": { "cardium": true, "competitorA": false, "competitorB": true },
+      "flexibleTopUp": { "cardium": true, "competitorA": false, "competitorB": false },
+      "realTimeAnalytics": { "cardium": true, "competitorA": true, "competitorB": false },
+      "dedicatedSupport": { "cardium": true, "competitorA": false, "competitorB": true }
+    }
+  },
+  "howItWorks": {
+    "sectionTag": "Cómo Funciona",
+    "title": "Comienza en minutos, no en días",
+    "steps": {
+      "register": {
+        "title": "Crea tu Cuenta",
+        "description": "Regístrate en menos de 2 minutos con solo tu email. Sin papeleo, sin esperas, sin verificaciones de crédito."
+      },
+      "fund": {
+        "title": "Recarga Cualquier Monto",
+        "description": "Agrega $100, $500, $5,000 — lo que necesiten tus campañas. Fondea con 30+ criptomonedas o transferencia bancaria. Saldo disponible al instante."
+      },
+      "spend": {
+        "title": "Emite Tarjetas y Escala",
+        "description": "Crea tarjetas ilimitadas desde tu saldo y gasta en cualquier plataforma del mundo. Control total, cero fricción."
+      }
+    }
+  },
+  "rates": {
+    "sectionTag": "Precios",
+    "title": "Paga por uso. Sin cuotas mensuales.",
+    "subtitle": "Sin suscripciones, sin planes, sin comisiones ocultas. Simplemente recarga tu saldo con cualquier monto y comienza a emitir tarjetas. Solo pagas por lo que usas.",
+    "topUpLabel": "Recarga cualquier monto",
+    "customAmount": "Otro $",
+    "topUpDescription": "Elige cualquier monto para tus campañas. Tu saldo está disponible al instante después de la recarga. Crea tarjetas ilimitadas y distribuye fondos como necesites.",
+    "topUpCta": "Recarga y Comienza",
+    "highlights": [
+      {
+        "title": "Creación de tarjetas",
+        "value": "Gratis",
+        "description": "Emite tarjetas Visa ilimitadas sin costo adicional desde tu saldo"
+      },
+      {
+        "title": "Comisión de recarga",
+        "value": "3%",
+        "description": "Comisión fija simple en depósitos cripto. Sin cuotas mensuales"
+      },
+      {
+        "title": "Recarga mínima",
+        "value": "$100",
+        "description": "Comienza pequeño y escala. Sin límite máximo en tu saldo"
+      }
+    ],
+    "includesTitle": "Todo incluido con cada recarga",
+    "features": [
+      "Tarjetas virtuales Visa ilimitadas",
+      "30+ opciones de recarga cripto",
+      "Analítica de transacciones en tiempo real",
+      "Gestión de equipos y roles",
+      "Acceso completo a API REST",
+      "Notificaciones webhook",
+      "Infraestructura multi-BIN",
+      "Protección 3D Secure 2.0",
+      "Soporte dedicado",
+      "Límites de gasto personalizados por tarjeta"
+    ],
+    "cta": "Ver Todos los Precios"
+  },
+  "testimonials": {
+    "sectionTag": "Lo que dicen nuestros clientes",
+    "title": "Confianza de marketers de performance en todo el mundo",
+    "items": [
+      {
+        "name": "Sarah Chen",
+        "role": "Jefa de Media Buying",
+        "company": "AdScale",
+        "content": "Cardium transformó nuestro flujo de trabajo. Pasamos de 50 tarjetas manuales a 500+ con controles automatizados. El ahorro de tiempo se pagó solo en la primera semana.",
+        "avatar": "SC"
+      },
+      {
+        "name": "Marcus Rodriguez",
+        "role": "CEO",
+        "company": "ClickFlow Agency",
+        "content": "El modelo de recarga flexible es perfecto — solo agregamos fondos cuando los necesitamos. Sin cuotas mensuales comiendo nuestros márgenes. Además, el fondeo cripto nos ahorra miles cada mes.",
+        "avatar": "MR"
+      },
+      {
+        "name": "Elena Volkova",
+        "role": "Directora Financiera",
+        "company": "MediaHouse",
+        "content": "Por fin una plataforma que realmente entiende a los media buyers. La analítica en tiempo real y el soporte multi-BIN son exactamente lo que necesitaba nuestro equipo de 40 personas.",
+        "avatar": "EV"
+      },
+      {
+        "name": "James Park",
+        "role": "Performance Lead",
+        "company": "GrowthPulse",
+        "content": "Probamos cada proveedor de tarjetas virtuales del mercado. Cardium tuvo las tasas de aprobación más altas, la emisión más rápida y el mejor equipo de soporte.",
+        "avatar": "JP"
+      },
+      {
+        "name": "Ana Petrova",
+        "role": "COO",
+        "company": "AdVenture Media",
+        "content": "Gestionar gasto publicitario en 12 países era una pesadilla. El soporte multi-moneda de Cardium y los BINs localizados lo resolvieron completamente. Nuestras tasas subieron del 78% al 97%.",
+        "avatar": "AP"
+      },
+      {
+        "name": "David Kim",
+        "role": "CTO",
+        "company": "ScaleUp Digital",
+        "content": "La API está bellamente diseñada. Construimos un panel personalizado sobre Cardium que auto-crea tarjetas y establece presupuestos programáticamente. Plataforma increíble.",
+        "avatar": "DK"
+      }
+    ]
+  },
+  "security": {
+    "sectionTag": "Seguridad",
+    "title": "Seguridad empresarial en la que puedes confiar",
+    "subtitle": "Tus fondos y datos están protegidos por los más altos estándares de seguridad de la industria. Nos tomamos el cumplimiento en serio.",
+    "badges": {
+      "pci": { "title": "PCI DSS Nivel 1", "description": "Máximo nivel de seguridad en tarjetas de pago, auditado anualmente" },
+      "3ds": { "title": "3D Secure 2.0", "description": "Protocolo avanzado de autenticación que protege cada transacción" },
+      "encryption": { "title": "Cifrado 256-bit", "description": "Cifrado AES-256 de grado militar para todos los datos" },
+      "soc2": { "title": "SOC 2 Type II", "description": "Controles e infraestructura de seguridad auditados independientemente" }
+    }
+  },
+  "faq": {
+    "sectionTag": "FAQ",
+    "title": "Preguntas frecuentes",
+    "items": {
+      "q1": {
+        "question": "¿Qué tan rápido puedo emitir una tarjeta?",
+        "answer": "Al instante. Una vez fondeada tu cuenta, puedes crear tarjetas ilimitadas en pocos clics. La mayoría emiten su primera tarjeta en 3 minutos."
+      },
+      "q2": {
+        "question": "¿Cómo funciona la recarga?",
+        "answer": "Simplemente elige cualquier monto desde $100 y fondea con 30+ criptomonedas incluyendo BTC, ETH, USDT y USDC. Tu saldo está disponible al instante. Sin cuotas mensuales — solo una comisión simple del 3% en depósitos cripto."
+      },
+      "q3": {
+        "question": "¿Hay un monto mínimo o máximo de recarga?",
+        "answer": "La recarga mínima es $100. No hay máximo — recarga $100, $1,000 o $50,000 según las necesidades de tus campañas. Tu saldo completo está disponible inmediatamente."
+      },
+      "q4": {
+        "question": "¿Cómo funciona la gestión de equipos?",
+        "answer": "Invita miembros, asigna roles (admin, manager, viewer), establece límites individuales y monitorea toda la actividad en tiempo real desde tu panel centralizado."
+      },
+      "q5": {
+        "question": "¿Qué plataformas publicitarias son compatibles?",
+        "answer": "Las tarjetas Cardium funcionan con todas las plataformas principales: Google Ads, Meta Ads, TikTok Ads, Microsoft Ads, Snapchat, Pinterest, Amazon Ads y más de 100 más. Nuestra infraestructura multi-BIN asegura altas tasas de aprobación."
+      },
+      "q6": {
+        "question": "¿Puedo usar Cardium para compras no publicitarias?",
+        "answer": "¡Sí! Aunque Cardium está optimizado para media buying, nuestras tarjetas Visa funcionan donde sea que acepten Visa — suscripciones SaaS, e-commerce, hosting y más."
+      },
+      "q7": {
+        "question": "¿Qué criptomonedas aceptan para recarga?",
+        "answer": "Aceptamos 30+ criptomonedas incluyendo BTC, ETH, USDT (TRC20 y ERC20), USDC y todas las stablecoins principales. Conversión instantánea con tasas en tiempo real sin recargos ocultos."
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para potenciar tu gasto publicitario?",
+    "subtitle": "Únete a miles de media buyers que ya escalan sus campañas con Cardium. Recarga cualquier monto y comienza a emitir tarjetas en minutos.",
+    "button": "Comienza Gratis Hoy"
+  },
+  "footer": {
+    "description": "Infraestructura de tarjetas virtuales para equipos de marketing modernos. Emite tarjetas ilimitadas, fondea con cripto, escala campañas. Recarga cualquier monto, crea tarjetas al instante.",
+    "products": "Productos",
+    "company": "Empresa",
+    "legal": "Legal",
+    "terms": "Términos y Condiciones",
+    "privacy": "Política de Privacidad",
+    "newsletter": "Mantente Informado",
+    "emailPlaceholder": "Tu email",
+    "subscribe": "Suscribirse",
+    "rights": "Todos los derechos reservados.",
+    "virtualCards": "Tarjetas Virtuales",
+    "cryptoTopUp": "Recarga Cripto",
+    "apiAccess": "Acceso API",
+    "teamManagement": "Gestión de Equipos",
+    "aboutUs": "Sobre Nosotros",
+    "careers": "Carreras",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "about": {
+    "title": "Sobre Cardium",
+    "subtitle": "Construimos el futuro de los pagos digitales para equipos de marketing. Nuestra misión es hacer la infraestructura de tarjetas virtuales accesible y poderosa para empresas de todo tamaño.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Democratizar el acceso a la infraestructura de tarjetas virtuales, permitiendo a empresas de todos los tamaños escalar su gasto publicitario con confianza, seguridad y transparencia. Todo media buyer — desde freelancers hasta agencias enterprise — merece herramientas poderosas sin complejidad ni cuotas mensuales."
+    },
+    "story": {
+      "title": "Nuestra Historia",
+      "description": "Fundada por veteranos de fintech y expertos en media buying, Cardium nació de una frustración: las soluciones de pago existentes no estaban diseñadas para la velocidad y escala del marketing digital moderno. Después de años de aprobaciones lentas, planes rígidos y comisiones opacas, decidimos construir una plataforma donde recargas cualquier monto y comienzas a gastar inmediatamente."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "transparency": { "title": "Transparencia", "description": "Sin comisiones ocultas, sin suscripciones mensuales, sin sorpresas. Una simple comisión de recarga es todo lo que pagas." },
+      "innovation": { "title": "Innovación", "description": "Empujamos los límites de lo posible en pagos digitales con tecnología de vanguardia e infraestructura multi-BIN." },
+      "security": { "title": "Seguridad Primero", "description": "Tu confianza es nuestra base. PCI DSS Nivel 1, 3D Secure 2.0 y cifrado 256-bit protegen cada transacción." },
+      "support": { "title": "Enfoque al Cliente", "description": "Tu éxito es nuestro éxito. Soporte dedicado 24/7 con personas reales que entienden media buying." }
+    },
+    "team": {
+      "title": "Nuestro Equipo",
+      "description": "Cardium está construido por un equipo global de 50+ ingenieros, especialistas fintech y expertos en marketing. Hemos procesado más de $500M en volumen mensual y emitido 2M+ tarjetas virtuales para media buyers en 150+ países."
+    },
+    "whyUs": {
+      "title": "Por qué los media buyers eligen Cardium",
+      "items": [
+        "Sin cuotas mensuales ni suscripciones — paga solo al recargar",
+        "Emisión instantánea con soporte multi-BIN para altas tasas de aprobación",
+        "30+ criptomonedas aceptadas para fondear tu saldo",
+        "Analítica y controles de gasto en tiempo real para cada tarjeta",
+        "Confianza de 10,000+ media buyers gestionando $500M+ mensuales"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "¿Tienes preguntas sobre Cardium? ¿Necesitas ayuda con tu cuenta, recargas o gestión de tarjetas? Nos encantaría saber de ti. Nuestro equipo responde en menos de 2 horas en horario laboral.",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Tu Email",
+      "message": "Tu Mensaje",
+      "submit": "Enviar Mensaje",
+      "success": "¡Mensaje enviado! Nos pondremos en contacto pronto.",
+      "error": "Algo salió mal. Inténtalo de nuevo."
+    },
+    "info": {
+      "email": "hello@cardium.io",
+      "support": "support@cardium.io",
+      "address": "123 Fintech Street, San Francisco, CA 94105"
+    },
+    "helpTopics": {
+      "title": "Temas Comunes",
+      "items": [
+        { "title": "Cuenta y Recarga", "description": "Preguntas sobre fondear tu saldo, depósitos cripto o verificación de cuenta" },
+        { "title": "Gestión de Tarjetas", "description": "Ayuda con crear, congelar o gestionar tarjetas y límites de gasto" },
+        { "title": "API e Integraciones", "description": "Preguntas técnicas sobre nuestra API REST, webhooks o integraciones" },
+        { "title": "Alianzas", "description": "¿Interesado en precios por volumen, soluciones white-label o ser socio de Cardium?" }
+      ]
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Insights, guías y actualizaciones del equipo Cardium. Aprende a optimizar tu gasto publicitario, gestionar tarjetas virtuales a escala y hacer crecer tu negocio de media buying.",
+    "posts": [
+      {
+        "slug": "virtual-cards-media-buying-2025",
+        "title": "Por qué las tarjetas virtuales son esenciales para media buying en 2025",
+        "excerpt": "Descubre cómo las tarjetas virtuales optimizan la gestión del gasto publicitario, protegen tu negocio del fraude y dan control granular sobre cada dólar.",
+        "date": "2025-01-15",
+        "tag": "Guía",
+        "readTime": "8 min lectura"
+      },
+      {
+        "slug": "crypto-top-up-guide",
+        "title": "Guía completa de recarga cripto para gasto publicitario",
+        "excerpt": "Todo lo que necesitas saber sobre fondear tu saldo de tarjetas virtuales con criptomonedas. Desde BTC y ETH hasta stablecoins USDT — instrucciones paso a paso.",
+        "date": "2025-01-10",
+        "tag": "Tutorial",
+        "readTime": "6 min lectura"
+      },
+      {
+        "slug": "team-spend-management",
+        "title": "Escalando la gestión de gastos de equipo sin caos",
+        "excerpt": "Cómo las agencias en crecimiento pueden gestionar cientos de tarjetas en equipos distribuidos. Acceso por roles, límites y monitoreo en tiempo real.",
+        "date": "2025-01-05",
+        "tag": "Mejores Prácticas",
+        "readTime": "7 min lectura"
+      },
+      {
+        "slug": "google-ads-virtual-cards",
+        "title": "Cómo configurar tarjetas virtuales para campañas de Google Ads",
+        "excerpt": "Guía paso a paso para crear y gestionar tarjetas Visa para Google Ads. Consejos para maximizar tasas de aprobación y aislar presupuestos de campaña.",
+        "date": "2024-12-20",
+        "tag": "Tutorial",
+        "readTime": "5 min lectura"
+      },
+      {
+        "slug": "approval-rates-optimization",
+        "title": "Cómo lograr 97%+ de tasa de aprobación en plataformas publicitarias",
+        "excerpt": "Infraestructura multi-BIN, emisión localizada y patrones inteligentes — las estrategias de los mejores media buyers para minimizar rechazos.",
+        "date": "2024-12-15",
+        "tag": "Estrategia",
+        "readTime": "9 min lectura"
+      },
+      {
+        "slug": "cardium-api-automation",
+        "title": "Automatiza tu gasto publicitario con la API REST de Cardium",
+        "excerpt": "Aprende a crear tarjetas programáticamente, establecer presupuestos y gestionar saldos con la API. Ejemplos en Python, Node.js y cURL.",
+        "date": "2024-12-10",
+        "tag": "Desarrollo",
+        "readTime": "10 min lectura"
+      }
+    ]
+  }
+}
