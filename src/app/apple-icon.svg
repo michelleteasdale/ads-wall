@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="180" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="c" x1="35" y1="50" x2="145" y2="135" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.75"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="40" fill="url(#g)"/>
+  <g transform="translate(90,90) rotate(-8) translate(-90,-90)">
+    <rect x="40" y="55" width="100" height="63" rx="8" fill="#ffffff" fill-opacity="0.2"/>
+  </g>
+  <rect x="40" y="60" width="100" height="63" rx="8" fill="url(#c)"/>
+  <rect x="54" y="74" width="16" height="12" rx="2" fill="#E8C84A" fill-opacity="0.8"/>
+  <rect x="54" y="95" width="42" height="4" rx="2" fill="#2563EB" fill-opacity="0.3"/>
+  <rect x="54" y="103" width="28" height="4" rx="2" fill="#7C3AED" fill-opacity="0.2"/>
+  <g transform="translate(123, 72)" stroke="#2563EB" stroke-opacity="0.4" stroke-width="2" fill="none">
+    <path d="M0 10 Q4 5 0 0"/>
+    <path d="M4 12 Q10 5 4 -2"/>
+  </g>
+</svg>

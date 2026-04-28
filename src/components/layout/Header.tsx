@@ -46,8 +46,8 @@ export function Header() {
     >
       <Container>
         <nav className="flex items-center justify-between">
-          <Link href="/" className="text-[22px] font-bold tracking-tight text-text-primary">
-            Cardium
+          <Link href="/" className="flex items-center gap-2.5">
+            <img src="/images/logo.svg" alt="Cardium" className="h-9 w-auto" />
           </Link>
 
           <div className="hidden lg:flex items-center gap-8">

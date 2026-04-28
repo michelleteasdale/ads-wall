@@ -16,8 +16,8 @@ export function Footer() {
       <Container>
         <div className="grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-1">
-            <Link href="/" className="text-[22px] font-bold tracking-tight text-white">
-              Cardium
+            <Link href="/" className="inline-block">
+              <img src="/images/logo-dark.svg" alt="Cardium" className="h-9 w-auto" />
             </Link>
             <p className="mt-4 text-sm text-slate-400 leading-relaxed max-w-xs">
               {t("description")}

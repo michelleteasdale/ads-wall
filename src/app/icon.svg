@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="c" x1="100" y1="140" x2="400" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.75"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <!-- Card shape 1 (back, tilted) -->
+  <g transform="translate(256,256) rotate(-8) translate(-256,-256)">
+    <rect x="115" y="155" width="282" height="178" rx="20" fill="#ffffff" fill-opacity="0.2"/>
+  </g>
+  <!-- Card shape 2 (front) -->
+  <rect x="115" y="170" width="282" height="178" rx="20" fill="url(#c)"/>
+  <!-- EMV chip -->
+  <rect x="155" y="210" width="44" height="34" rx="6" fill="#E8C84A" fill-opacity="0.8"/>
+  <!-- Card lines -->
+  <rect x="155" y="270" width="120" height="10" rx="5" fill="#2563EB" fill-opacity="0.3"/>
+  <rect x="155" y="290" width="80" height="10" rx="5" fill="#7C3AED" fill-opacity="0.2"/>
+  <!-- Contactless icon -->
+  <g transform="translate(350, 205)" stroke="#2563EB" stroke-opacity="0.4" stroke-width="3" fill="none">
+    <path d="M0 20 Q8 10 0 0"/>
+    <path d="M8 22 Q18 10 8 -2"/>
+    <path d="M16 24 Q28 10 16 -4"/>
+  </g>
+</svg>
