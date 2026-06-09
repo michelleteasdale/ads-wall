@@ -115,22 +115,28 @@ export function Footer() {
                 {t("legal")}
               </h4>
               <ul className="space-y-3">
-                <li>
-                  <Link
-                    href="/terms"
-                    className="text-sm text-slate-400 hover:text-white transition-colors"
-                  >
-                    {t("terms")}
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    href="/privacy"
-                    className="text-sm text-slate-400 hover:text-white transition-colors"
-                  >
-                    {t("privacy")}
-                  </Link>
-                </li>
+                {[
+                  { label: "terms", href: "/terms" },
+                  { label: "privacy", href: "/privacy" },
+                  { key: "virtualCardTerms", label: "Virtual Card Terms", href: "/virtual-card-terms" },
+                  { key: "paymentPolicy", label: "Payment Policy", href: "/payment-policy" },
+                  { key: "refundPolicy", label: "Refund Policy", href: "/refund-policy" },
+                  { key: "acceptableUse", label: "Acceptable Use", href: "/acceptable-use" },
+                  { key: "kycAml", label: "KYC & AML Policy", href: "/kyc-aml-policy" },
+                  { key: "cookiePolicy", label: "Cookie Policy", href: "/cookie-policy" },
+                  { key: "complaints", label: "Complaints", href: "/complaints" },
+                ].map((item) => (
+                  <li key={item.href}>
+                    <Link
+                      href={item.href}
+                      className="text-sm text-slate-400 hover:text-white transition-colors"
+                    >
+                      {item.label === "terms" || item.label === "privacy"
+                        ? t(item.label)
+                        : item.label}
+                    </Link>
+                  </li>
+                ))}
               </ul>
             </div>
           </div>

@@ -323,6 +323,13 @@
     "legal": "Юридичне",
     "terms": "Умови використання",
     "privacy": "Політика конфіденційності",
+    "virtualCardTerms": "Умови віртуальних карток",
+    "paymentPolicy": "Політика оплати",
+    "refundPolicy": "Політика повернення",
+    "acceptableUse": "Прийнятне використання",
+    "kycAmlPolicy": "Політика KYC та AML",
+    "cookiePolicy": "Політика cookies",
+    "complaints": "Скарги",
     "newsletter": "Будьте в курсі",
     "emailPlaceholder": "Введіть email",
     "subscribe": "Підписатися",
@@ -448,5 +455,41 @@
         "readTime": "10 хв читання"
       }
     ]
+  },
+  "terms": {
+    "title": "Умови використання",
+    "lastUpdated": "Останнє оновлення: 09.06.2026"
+  },
+  "privacy": {
+    "title": "Політика конфіденційності",
+    "lastUpdated": "Останнє оновлення: 09.06.2026"
+  },
+  "virtualCardTerms": {
+    "title": "Умови віртуальних карток",
+    "lastUpdated": "Останнє оновлення: 09.06.2026"
+  },
+  "paymentPolicy": {
+    "title": "Політика оплати та поповнення",
+    "lastUpdated": "Останнє оновлення: 09.06.2026"
+  },
+  "refundPolicy": {
+    "title": "Політика повернення та скасування",
+    "lastUpdated": "Останнє оновлення: 09.06.2026"
+  },
+  "acceptableUse": {
+    "title": "Політика прийнятного використання",
+    "lastUpdated": "Останнє оновлення: 09.06.2026"
+  },
+  "kycAmlPolicy": {
+    "title": "Політика KYC, AML та санкцій",
+    "lastUpdated": "Останнє оновлення: 09.06.2026"
+  },
+  "cookiePolicy": {
+    "title": "Політика cookies",
+    "lastUpdated": "Останнє оновлення: 09.06.2026"
+  },
+  "complaints": {
+    "title": "Політика розгляду скарг",
+    "lastUpdated": "Останнє оновлення: 09.06.2026"
   }
 }

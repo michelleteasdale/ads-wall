@@ -323,6 +323,13 @@
     "legal": "Legal",
     "terms": "Terms & Conditions",
     "privacy": "Privacy Policy",
+    "virtualCardTerms": "Virtual Card Terms",
+    "paymentPolicy": "Payment & Top-Up Policy",
+    "refundPolicy": "Refund & Cancellation Policy",
+    "acceptableUse": "Acceptable Use Policy",
+    "kycAmlPolicy": "KYC, AML & Sanctions Policy",
+    "cookiePolicy": "Cookie Policy",
+    "complaints": "Complaints Policy",
     "newsletter": "Stay Updated",
     "emailPlaceholder": "Enter your email",
     "subscribe": "Subscribe",
@@ -532,10 +539,38 @@
   },
   "terms": {
     "title": "Terms & Conditions",
-    "lastUpdated": "Last updated: June 2025"
+    "lastUpdated": "Last Updated: 09.06.2026"
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: June 2025"
+    "lastUpdated": "Last Updated: 09.06.2026"
+  },
+  "virtualCardTerms": {
+    "title": "Virtual Card Terms",
+    "lastUpdated": "Last Updated: 09.06.2026"
+  },
+  "paymentPolicy": {
+    "title": "Payment & Top-Up Policy",
+    "lastUpdated": "Last Updated: 09.06.2026"
+  },
+  "refundPolicy": {
+    "title": "Refund & Cancellation Policy",
+    "lastUpdated": "Last Updated: 09.06.2026"
+  },
+  "acceptableUse": {
+    "title": "Acceptable Use Policy",
+    "lastUpdated": "Last Updated: 09.06.2026"
+  },
+  "kycAmlPolicy": {
+    "title": "KYC, AML & Sanctions Policy",
+    "lastUpdated": "Last Updated: 09.06.2026"
+  },
+  "cookiePolicy": {
+    "title": "Cookie Policy",
+    "lastUpdated": "Last Updated: 09.06.2026"
+  },
+  "complaints": {
+    "title": "Complaints Policy",
+    "lastUpdated": "Last Updated: 09.06.2026"
   }
 }
