@@ -1,8 +1,8 @@
 "use client";
 
 import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 import { Container } from "@/components/layout/Container";
-import { MagneticButton } from "@/components/animations/MagneticButton";
 import { ScrollReveal } from "@/components/animations/ScrollReveal";
 import { ParallaxElement } from "@/components/animations/ParallaxElement";
 import { HiArrowRight } from "react-icons/hi2";
@@ -38,12 +38,12 @@ export function CTASection() {
             <p className="text-white/80 text-lg mb-8 max-w-lg mx-auto">
               {t("subtitle")}
             </p>
-            <MagneticButton className="inline-block">
+            <Link href="/register" className="inline-block">
               <button className="inline-flex items-center gap-2 bg-white text-primary-600 font-semibold rounded-xl px-10 py-4 shadow-xl hover:shadow-2xl hover:scale-105 transition-all duration-300 cursor-pointer group">
                 {t("button")}
                 <HiArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
               </button>
-            </MagneticButton>
+            </Link>
           </div>
         </ScrollReveal>
       </Container>

@@ -3,9 +3,9 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { Container } from "./Container";
-import { Button } from "@/components/ui/Button";
 import { HiPaperAirplane } from "react-icons/hi2";
-import { FaXTwitter, FaLinkedinIn, FaGithub, FaDiscord } from "react-icons/fa6";
+import { FaXTwitter, FaLinkedinIn } from "react-icons/fa6";
+import { COMPANY } from "@/lib/utils/constants";
 
 export function Footer() {
   const t = useTranslations("footer");
@@ -17,11 +17,18 @@ export function Footer() {
         <div className="grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-1">
             <Link href="/" className="inline-block">
-              <img src="/images/logo-dark.svg" alt="Cardium" className="h-9 w-auto" />
+              <img src="/images/logo-dark.svg" alt="AdsWall" className="h-9 w-auto" />
             </Link>
             <p className="mt-4 text-sm text-slate-400 leading-relaxed max-w-xs">
               {t("description")}
             </p>
+            <div className="mt-4 text-xs text-slate-500 space-y-1">
+              <p>{COMPANY.name}</p>
+              <p>Company number {COMPANY.number}</p>
+              <p>{COMPANY.address}</p>
+              <p>{COMPANY.phone}</p>
+              <p>{COMPANY.email}</p>
+            </div>
           </div>
 
           <div>
@@ -55,7 +62,6 @@ export function Footer() {
               {[
                 { key: "aboutUs", href: "/about" },
                 { key: "blog", href: "/blog" },
-                { key: "careers", href: "/" },
                 { key: "contact", href: "/contact" },
               ].map((item) => (
                 <li key={item.key}>
@@ -111,7 +117,7 @@ export function Footer() {
               <ul className="space-y-3">
                 <li>
                   <Link
-                    href="/"
+                    href="/terms"
                     className="text-sm text-slate-400 hover:text-white transition-colors"
                   >
                     {t("terms")}
@@ -119,7 +125,7 @@ export function Footer() {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href="/privacy"
                     className="text-sm text-slate-400 hover:text-white transition-colors"
                   >
                     {t("privacy")}
@@ -139,14 +145,12 @@ export function Footer() {
 
         <div className="mt-8 flex flex-col items-center justify-between gap-4 border-t border-slate-800 pt-8 sm:flex-row">
           <p className="text-xs text-slate-500">
-            &copy; {new Date().getFullYear()} Cardium. {t("rights")}
+            &copy; {new Date().getFullYear()} AdsWall ({COMPANY.name}). {t("rights")}
           </p>
           <div className="flex gap-4">
             {[
               { icon: FaXTwitter, label: "Twitter" },
               { icon: FaLinkedinIn, label: "LinkedIn" },
-              { icon: FaGithub, label: "GitHub" },
-              { icon: FaDiscord, label: "Discord" },
             ].map(({ icon: Icon, label }) => (
               <a
                 key={label}

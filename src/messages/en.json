@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Cardium — Virtual Cards for Media Buyers | Instant Visa & Mastercard for Google Ads, Meta & Bing",
+    "title": "AdsWall — Virtual Cards for Media Buyers | Instant Visa & Mastercard for Google Ads, Meta & Bing",
     "description": "Issue unlimited virtual Visa and Mastercard cards in seconds. Fund with a card, manage your balance, and scale your ad spend across Google Ads, Meta, Bing, and every platform."
   },
   "nav": {
@@ -17,7 +17,7 @@
     "titleLine1": "Your Ad Spend,",
     "titleLine2": "Supercharged",
     "subtitle": "Issue unlimited virtual Visa and Mastercard cards in seconds. Fund with a card, manage your balance, and start spending instantly on Google Ads, Meta, Bing, and every ad platform. Scale without limits.",
-    "cta": "Start Free",
+    "cta": "Create Account",
     "ctaSecondary": "View Pricing",
     "socialProof": "Join 10,000+ buyers",
     "rating": "4.9",
@@ -38,7 +38,7 @@
   "features": {
     "sectionTag": "Features",
     "title": "Everything you need to scale your ad spend",
-    "subtitle": "A complete virtual card infrastructure built for modern marketing teams. From instant card issuing to advanced analytics, Cardium gives you full control over every dollar.",
+    "subtitle": "A complete virtual card infrastructure built for modern marketing teams. From instant card issuing to advanced analytics, AdsWall gives you full control over every dollar.",
     "items": {
       "instantCards": {
         "title": "Instant Card Issuing",
@@ -46,7 +46,7 @@
       },
       "flexibleTopUp": {
         "title": "Flexible Funding",
-        "description": "Fund your balance with a card or wire transfer — from $10 to $10,000+. Instant top-ups at competitive rates with no hidden fees. Your balance is ready to spend immediately."
+        "description": "Fund your balance with Visa or Mastercard — from $10 to $10,000+. Instant top-ups at competitive rates with no hidden fees. Your balance is ready to spend immediately."
       },
       "teamAccounts": {
         "title": "Team Management",
@@ -67,7 +67,7 @@
     }
   },
   "benefits": {
-    "sectionTag": "Why Cardium",
+    "sectionTag": "Why AdsWall",
     "title": "Built for performance marketers",
     "subtitle": "Every feature is designed to help you spend smarter, scale faster, and stay in complete control of your advertising budgets.",
     "items": {
@@ -93,7 +93,7 @@
       },
       "automation": {
         "title": "Automated Spend Management",
-        "description": "Set up rules and let Cardium handle the rest. Automatic top-ups, budget alerts, and card rotation keep your campaigns running smoothly around the clock.",
+        "description": "Set up rules and let AdsWall handle the rest. Automatic top-ups, budget alerts, and card rotation keep your campaigns running smoothly around the clock.",
         "points": [
           "Auto top-up when balance runs low",
           "Scheduled card creation and rotation",
@@ -103,7 +103,7 @@
       },
       "growth": {
         "title": "Scale Without Limits",
-        "description": "Whether you're managing 10 cards or 10,000, Cardium grows with you. Fund your balance with a card and create as many virtual cards as you need.",
+        "description": "Whether you're managing 10 cards or 10,000, AdsWall grows with you. Fund your balance with Visa or Mastercard and create as many virtual cards as you need.",
         "points": [
           "Unlimited virtual cards",
           "Fund any amount, any time",
@@ -116,7 +116,7 @@
   "integrations": {
     "sectionTag": "Integrations",
     "title": "Works with every platform you use",
-    "subtitle": "Cardium cards are accepted on all major advertising and e-commerce platforms out of the box.",
+    "subtitle": "AdsWall cards are accepted on all major advertising and e-commerce platforms out of the box.",
     "platforms": {
       "google": "Google Ads",
       "meta": "Meta Ads",
@@ -131,11 +131,11 @@
   },
   "comparison": {
     "sectionTag": "Compare",
-    "title": "See how Cardium stacks up",
-    "subtitle": "We built Cardium to be the best virtual card platform for media buyers. Here's how we compare.",
+    "title": "See how AdsWall stacks up",
+    "subtitle": "We built AdsWall to be the best virtual card platform for media buyers. Here's how we compare.",
     "featureLabel": "Feature",
     "competitors": {
-      "cardium": "Cardium",
+      "cardium": "AdsWall",
       "competitorA": "Competitor A",
       "competitorB": "Competitor B"
     },
@@ -170,7 +170,7 @@
       },
       "fund": {
         "title": "Fund Your Balance",
-        "description": "Add $10, $500, $5,000 — whatever your campaigns need. Fund with a card or wire transfer. Balance is available instantly."
+        "description": "Add $10, $500, $5,000 — whatever your campaigns need. Fund with Visa or Mastercard. Balance is available instantly."
       },
       "spend": {
         "title": "Issue Cards & Scale",
@@ -194,8 +194,8 @@
       },
       {
         "title": "Service Fee",
-        "value": "From 3%",
-        "description": "Transparent fee on deposits. No monthly fees, no hidden charges"
+        "value": "0%",
+        "description": "No service fee on deposits. No monthly fees, no hidden charges"
       },
       {
         "title": "Minimum Top-Up",
@@ -206,7 +206,7 @@
     "includesTitle": "Everything included with every top-up",
     "features": [
       "Unlimited virtual Visa & Mastercard cards",
-      "Multiple funding methods",
+      "Visa & Mastercard funding",
       "Real-time transaction analytics",
       "Team management & roles",
       "Full REST API access",
@@ -226,7 +226,7 @@
         "name": "Sarah Chen",
         "role": "Head of Media Buying",
         "company": "AdScale",
-        "content": "Cardium transformed our ad spend workflow. We went from managing 50 cards manually to 500+ cards with automated controls. The time savings alone paid for itself in the first week. Absolute game changer for any serious media buyer.",
+        "content": "AdsWall transformed our ad spend workflow. We went from managing 50 cards manually to 500+ cards with automated controls. The time savings alone paid for itself in the first week. Absolute game changer for any serious media buyer.",
         "avatar": "SC"
       },
       {
@@ -247,21 +247,21 @@
         "name": "James Park",
         "role": "Performance Lead",
         "company": "GrowthPulse",
-        "content": "We tested every virtual card provider on the market. Cardium had the highest approval rates, the fastest card issuing, and the best support team. We moved our entire operation over in a weekend.",
+        "content": "We tested every virtual card provider on the market. AdsWall had the highest approval rates, the fastest card issuing, and the best support team. We moved our entire operation over in a weekend.",
         "avatar": "JP"
       },
       {
         "name": "Ana Petrova",
         "role": "COO",
         "company": "AdVenture Media",
-        "content": "Managing ad spend across 12 countries used to be a nightmare. Cardium's multi-currency support and localized BINs solved that completely. Our approval rates went from 78% to 97%.",
+        "content": "Managing ad spend across 12 countries used to be a nightmare. AdsWall's multi-currency support and localized BINs solved that completely. Our approval rates went from 78% to 97%.",
         "avatar": "AP"
       },
       {
         "name": "David Kim",
         "role": "CTO",
         "company": "ScaleUp Digital",
-        "content": "The API is beautifully designed. We built a custom dashboard on top of Cardium that auto-creates cards, sets budgets, and rotates payment methods — all programmatically. Incredible platform.",
+        "content": "The API is beautifully designed. We built a custom dashboard on top of AdsWall that auto-creates cards, sets budgets, and rotates payment methods — all programmatically. Incredible platform.",
         "avatar": "DK"
       }
     ]
@@ -287,7 +287,7 @@
       },
       "q2": {
         "question": "How does funding work?",
-        "answer": "Simply choose any amount starting from $10 and fund with a card or wire transfer. Your balance is available instantly after confirmation. There are no monthly fees — you only pay a transparent service fee on deposits."
+        "answer": "Simply choose any amount starting from $10 and fund with Visa or Mastercard. Your balance is available instantly after confirmation. There are no monthly fees and no hidden charges."
       },
       "q3": {
         "question": "Is there a minimum or maximum top-up amount?",
@@ -299,22 +299,22 @@
       },
       "q5": {
         "question": "What ad platforms are supported?",
-        "answer": "Cardium cards work with all major ad platforms including Google Ads, Meta Ads, TikTok Ads, Microsoft Ads, Snapchat, Pinterest, Amazon Ads, and 100+ more. Our multi-BIN infrastructure ensures high approval rates everywhere."
+        "answer": "AdsWall cards work with all major ad platforms including Google Ads, Meta Ads, TikTok Ads, Microsoft Ads, Snapchat, Pinterest, Amazon Ads, and 100+ more. Our multi-BIN infrastructure ensures high approval rates everywhere."
       },
       "q6": {
-        "question": "Can I use Cardium for non-advertising purchases?",
-        "answer": "Yes! While Cardium is optimized for media buying, our virtual Visa and Mastercard cards work everywhere these networks are accepted — SaaS subscriptions, e-commerce, hosting, and more."
+        "question": "Can I use AdsWall for non-advertising purchases?",
+        "answer": "Yes! While AdsWall is optimized for media buying, our virtual Visa and Mastercard cards work everywhere these networks are accepted — SaaS subscriptions, e-commerce, hosting, and more."
       },
       "q7": {
         "question": "Which currencies are supported?",
-        "answer": "Cardium supports GBP, EUR, and USD. You can fund your balance and issue cards in any of these currencies. Conversion between currencies is handled automatically at competitive rates with no hidden markups."
+        "answer": "AdsWall supports GBP, EUR, and USD. You can fund your balance and issue cards in any of these currencies. Conversion between currencies is handled automatically at competitive rates with no hidden markups."
       }
     }
   },
   "cta": {
     "title": "Ready to supercharge your ad spend?",
-    "subtitle": "Join thousands of media buyers who are already scaling their campaigns with Cardium. Fund any amount and start issuing cards in minutes.",
-    "button": "Start Free Today"
+    "subtitle": "Join thousands of media buyers who are already scaling their campaigns with AdsWall. Fund any amount and start issuing cards in minutes.",
+    "button": "Create Account"
   },
   "footer": {
     "description": "Virtual card infrastructure for modern marketing teams. Issue unlimited cards, fund with a card, and scale campaigns without limits. Your cards. Your rules.",
@@ -337,7 +337,7 @@
     "contact": "Contact"
   },
   "about": {
-    "title": "About Cardium",
+    "title": "About AdsWall",
     "subtitle": "We're building the future of digital payments for modern marketing teams. Our mission is to make virtual card infrastructure accessible, powerful, and easy to use for businesses of every size.",
     "mission": {
       "title": "Our Mission",
@@ -345,7 +345,7 @@
     },
     "story": {
       "title": "Our Story",
-      "description": "Founded by a team of fintech veterans and media buying experts, Cardium was born from a simple frustration: existing payment solutions weren't built for the speed and scale that modern digital marketing demands. After years of dealing with slow bank approvals, limited card counts, rigid pricing tiers, and opaque fees, we set out to build something better — a platform where you fund any amount and start spending immediately."
+      "description": "Founded by a team of fintech veterans and media buying experts, AdsWall was born from a simple frustration: existing payment solutions weren't built for the speed and scale that modern digital marketing demands. After years of dealing with slow bank approvals, limited card counts, rigid pricing tiers, and opaque fees, we set out to build something better — a platform where you fund any amount and start spending immediately."
     },
     "values": {
       "title": "Our Values",
@@ -356,14 +356,14 @@
     },
     "team": {
       "title": "Our Team",
-      "description": "Cardium is built by a globally distributed team of engineers, fintech specialists, and marketing experts dedicated to creating the best virtual card platform for media buyers. We operate across 150+ countries, serving thousands of satisfied customers every day."
+      "description": "AdsWall is built by a globally distributed team of engineers, fintech specialists, and marketing experts dedicated to creating the best virtual card platform for media buyers. We operate across 150+ countries, serving thousands of satisfied customers every day."
     },
     "whyUs": {
-      "title": "Why Media Buyers Choose Cardium",
+      "title": "Why Media Buyers Choose AdsWall",
       "items": [
         "No monthly fees or subscriptions — pay only when you fund your balance",
         "Instant card issuing with multi-BIN support for high approval rates",
-        "Fund with a card or wire transfer — simple, fast, and secure",
+        "Fund with Visa or Mastercard — simple, fast, and secure",
         "Real-time analytics and spending controls for every card",
         "GBP, EUR, and USD currency support for global campaigns"
       ]
@@ -371,7 +371,7 @@
   },
   "contact": {
     "title": "Get in Touch",
-    "subtitle": "Have questions about Cardium? Need help with your account, funding, or card management? We'd love to hear from you. Our team typically responds within 2 hours during business hours.",
+    "subtitle": "Have questions about AdsWall? Need help with your account, funding, or card management? We'd love to hear from you. Our team typically responds within 2 hours during business hours.",
     "form": {
       "name": "Your Name",
       "email": "Your Email",
@@ -381,9 +381,12 @@
       "error": "Something went wrong. Please try again."
     },
     "info": {
-      "email": "hello@cardium.io",
-      "support": "support@cardium.io",
-      "address": "123 Fintech Street, San Francisco, CA 94105"
+      "email": "info@head-pay.com",
+      "support": "info@head-pay.com",
+      "phone": "+44 7863 773171",
+      "address": "Dept 6789, 196 High Road, Wood Green, London, United Kingdom, N22 8HH",
+      "companyName": "HEADPAY LTD",
+      "companyNumber": "Company number 17206399"
     },
     "helpTopics": {
       "title": "Common Topics",
@@ -391,13 +394,13 @@
         { "title": "Account & Funding", "description": "Questions about funding your balance, card deposits, or account verification" },
         { "title": "Card Management", "description": "Help with creating, freezing, or managing virtual cards and spending limits" },
         { "title": "API & Integrations", "description": "Technical questions about our REST API, webhooks, or third-party integrations" },
-        { "title": "Partnerships", "description": "Interested in bulk pricing, white-label solutions, or becoming a Cardium partner" }
+        { "title": "Partnerships", "description": "Interested in bulk pricing, white-label solutions, or becoming an AdsWall partner" }
       ]
     }
   },
   "blog": {
     "title": "Blog",
-    "subtitle": "Insights, guides, and updates from the Cardium team. Learn how to optimize your ad spend, manage virtual cards at scale, and grow your media buying business.",
+    "subtitle": "Insights, guides, and updates from the AdsWall team. Learn how to optimize your ad spend, manage virtual cards at scale, and grow your media buying business.",
     "posts": [
       {
         "slug": "virtual-cards-media-buying-2025",
@@ -440,13 +443,99 @@
         "readTime": "4 min read"
       },
       {
-        "slug": "cardium-api-automation",
-        "title": "Automate Your Ad Spend with the Cardium REST API",
-        "excerpt": "For teams managing hundreds of cards, manual management doesn't scale. The Cardium API lets you programmatically create cards, set budgets, check balances, and receive webhook notifications when transactions occur. This developer guide walks through authentication, the card creation endpoint, balance operations, and webhook setup — with code examples in Python and Node.js so you can integrate Cardium into your existing workflow.",
+        "slug": "adswall-api-automation",
+        "title": "Automate Your Ad Spend with the AdsWall REST API",
+        "excerpt": "For teams managing hundreds of cards, manual management doesn't scale. The AdsWall API lets you programmatically create cards, set budgets, check balances, and receive webhook notifications when transactions occur. This developer guide walks through authentication, the card creation endpoint, balance operations, and webhook setup — with code examples in Python and Node.js so you can integrate AdsWall into your existing workflow.",
         "date": "2024-12-10",
         "tag": "Developer",
         "readTime": "5 min read"
       }
     ]
+  },
+  "auth": {
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Join thousands of media buyers scaling their ad spend with AdsWall",
+      "steps": {
+        "personal": "Personal Info",
+        "address": "Address",
+        "security": "Security"
+      },
+      "fields": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "dateOfBirth": "Date of Birth",
+        "street": "Street Address",
+        "city": "City",
+        "country": "Country",
+        "postalCode": "Postal Code",
+        "password": "Password",
+        "confirmPassword": "Confirm Password"
+      },
+      "next": "Continue",
+      "back": "Back",
+      "submit": "Create Account",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign In",
+      "selectCountry": "Select a country",
+      "passwordRequirements": "At least 8 characters with uppercase, lowercase, and a number",
+      "termsAgreement": "By creating an account, you agree to our",
+      "termsLink": "Terms & Conditions",
+      "and": "and",
+      "privacyLink": "Privacy Policy"
+    },
+    "login": {
+      "title": "Sign In",
+      "subtitle": "Welcome back to AdsWall",
+      "fields": {
+        "email": "Email Address",
+        "password": "Password"
+      },
+      "submit": "Sign In",
+      "forgotPassword": "Forgot password?",
+      "noAccount": "Don't have an account?",
+      "signUp": "Create Account"
+    }
+  },
+  "account": {
+    "title": "My Account",
+    "tabs": {
+      "overview": "Overview",
+      "cards": "My Cards",
+      "settings": "Settings"
+    },
+    "overview": {
+      "welcome": "Welcome back",
+      "balance": "Balance",
+      "totalCards": "Total Cards",
+      "activeCards": "Active Cards",
+      "totalSpent": "Total Spent"
+    },
+    "cards": {
+      "title": "My Cards",
+      "empty": "You don't have any cards yet. Create your first card to get started.",
+      "createCard": "Create New Card",
+      "status": {
+        "active": "Active",
+        "frozen": "Frozen",
+        "expired": "Expired"
+      }
+    },
+    "settings": {
+      "title": "Account Settings",
+      "personalInfo": "Personal Information",
+      "security": "Security",
+      "logout": "Sign Out"
+    }
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "lastUpdated": "Last updated: June 2025"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2025"
   }
 }

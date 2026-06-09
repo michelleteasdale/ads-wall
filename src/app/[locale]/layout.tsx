@@ -6,6 +6,8 @@ import { satoshi, dmSans, jetbrainsMono } from "@/styles/fonts";
 import { locales } from "@/i18n/config";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
+import { CurrencyProvider } from "@/lib/contexts/CurrencyContext";
+import { AuthProvider } from "@/lib/contexts/AuthContext";
 import "@/app/globals.css";
 
 export function generateStaticParams() {
@@ -30,12 +32,12 @@ export async function generateMetadata({
       "Meta Ads",
       "Bing Ads",
       "fintech",
-      "Cardium",
+      "AdsWall",
     ],
     openGraph: {
       title: messages.metadata.title,
       description: messages.metadata.description,
-      siteName: "Cardium",
+      siteName: "AdsWall",
       type: "website",
       locale,
     },
@@ -45,7 +47,7 @@ export async function generateMetadata({
       description: messages.metadata.description,
     },
     alternates: {
-      languages: { en: "/en", uk: "/uk", es: "/es" },
+      canonical: "/",
     },
   };
 }
@@ -73,9 +75,13 @@ export default async function LocaleLayout({
     >
       <body className="relative z-[1] min-h-full flex flex-col bg-background text-text-primary font-sans">
         <NextIntlClientProvider messages={messages}>
-          <Header />
-          <main className="flex-1">{children}</main>
-          <Footer />
+          <AuthProvider>
+            <CurrencyProvider>
+              <Header />
+              <main className="flex-1">{children}</main>
+              <Footer />
+            </CurrencyProvider>
+          </AuthProvider>
         </NextIntlClientProvider>
       </body>
     </html>

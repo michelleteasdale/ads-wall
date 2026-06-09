@@ -65,12 +65,12 @@ export function HeroSection() {
 
             <TextReveal delay={0.4}>
               <div className="mt-8 flex flex-wrap gap-4">
-                <MagneticButton>
+                <Link href="/register">
                   <Button size="lg" className="group">
                     {t("cta")}
                     <HiArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
                   </Button>
-                </MagneticButton>
+                </Link>
                 <Link href="/rates">
                   <Button variant="outline" size="lg">
                     {t("ctaSecondary")}

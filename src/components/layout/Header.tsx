@@ -8,21 +8,17 @@ import { Button } from "@/components/ui/Button";
 import { HiBars3, HiXMark, HiChevronDown } from "react-icons/hi2";
 import { cn } from "@/lib/utils/cn";
 import { NAV_LINKS } from "@/lib/utils/constants";
-
-const currencies = [
-  { code: "USD", symbol: "$", label: "USD" },
-  { code: "EUR", symbol: "€", label: "EUR" },
-  { code: "GBP", symbol: "£", label: "GBP" },
-] as const;
-
-type Currency = (typeof currencies)[number]["code"];
+import { useCurrency } from "@/lib/contexts/CurrencyContext";
+import { useAuth } from "@/lib/contexts/AuthContext";
+import { HiUserCircle } from "react-icons/hi2";
 
 export function Header() {
   const t = useTranslations("nav");
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [currencyOpen, setCurrencyOpen] = useState(false);
-  const [currency, setCurrency] = useState<Currency>("USD");
+  const { currency, setCurrency, currencies } = useCurrency();
+  const { user } = useAuth();
   const pathname = usePathname();
 
   useEffect(() => {
@@ -47,7 +43,7 @@ export function Header() {
       <Container>
         <nav className="flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2.5">
-            <img src="/images/logo.svg" alt="Cardium" className="h-9 w-auto" />
+            <img src="/images/logo.svg" alt="AdsWall" className="h-9 w-auto" />
           </Link>
 
           <div className="hidden lg:flex items-center gap-8">
@@ -97,12 +93,27 @@ export function Header() {
               )}
             </div>
 
-            <Button variant="ghost" size="sm">
-              {t("signIn")}
-            </Button>
-            <Button variant="primary" size="sm">
-              {t("signUp")}
-            </Button>
+            {user ? (
+              <Link href="/account">
+                <Button variant="primary" size="sm">
+                  <HiUserCircle className="h-4 w-4" />
+                  {user.firstName}
+                </Button>
+              </Link>
+            ) : (
+              <>
+                <Link href="/login">
+                  <Button variant="ghost" size="sm">
+                    {t("signIn")}
+                  </Button>
+                </Link>
+                <Link href="/register">
+                  <Button variant="primary" size="sm">
+                    {t("signUp")}
+                  </Button>
+                </Link>
+              </>
+            )}
           </div>
 
           <button
@@ -150,12 +161,27 @@ export function Header() {
                 ))}
               </div>
               <div className="flex gap-3 pt-4">
-                <Button variant="outline" size="sm" className="flex-1">
-                  {t("signIn")}
-                </Button>
-                <Button variant="primary" size="sm" className="flex-1">
-                  {t("signUp")}
-                </Button>
+                {user ? (
+                  <Link href="/account" className="flex-1">
+                    <Button variant="primary" size="sm" className="w-full">
+                      <HiUserCircle className="h-4 w-4" />
+                      {user.firstName}
+                    </Button>
+                  </Link>
+                ) : (
+                  <>
+                    <Link href="/login" className="flex-1">
+                      <Button variant="outline" size="sm" className="w-full">
+                        {t("signIn")}
+                      </Button>
+                    </Link>
+                    <Link href="/register" className="flex-1">
+                      <Button variant="primary" size="sm" className="w-full">
+                        {t("signUp")}
+                      </Button>
+                    </Link>
+                  </>
+                )}
               </div>
             </div>
           </Container>

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Cardium — Tarjetas Virtuales para Media Buyers | Visa instantáneas para Google Ads, Meta y TikTok",
-    "description": "Emita tarjetas virtuales Visa ilimitadas en segundos. Recargue cualquier monto desde $100 hasta $10,000+. Hecho para Google Ads, Meta, TikTok y cada plataforma publicitaria."
+    "title": "AdsWall — Tarjetas Virtuales para Media Buyers | Visa instantáneas para Google Ads, Meta y TikTok",
+    "description": "Emita tarjetas virtuales Visa y Mastercard ilimitadas en segundos. Recargue con Visa o Mastercard desde $10 hasta $10,000+. Hecho para Google Ads, Meta, Bing y cada plataforma publicitaria."
   },
   "nav": {
     "virtualCards": "Tarjetas Virtuales",
@@ -16,7 +16,7 @@
     "badge": "Más de 10,000 media buyers confían en nosotros",
     "titleLine1": "Tu gasto publicitario,",
     "titleLine2": "Potenciado",
-    "subtitle": "Emite tarjetas virtuales Visa ilimitadas en segundos. Recarga cualquier monto — $100, $500 o $10,000 — y comienza a gastar al instante en Google Ads, Meta, TikTok y toda plataforma publicitaria.",
+    "subtitle": "Emite tarjetas virtuales Visa y Mastercard ilimitadas en segundos. Recarga con Visa o Mastercard, gestiona tu saldo y comienza a gastar al instante en Google Ads, Meta, Bing y toda plataforma publicitaria.",
     "cta": "Comienza Gratis",
     "ctaSecondary": "Ver Precios",
     "socialProof": "Únete a 10,000+ buyers",
@@ -42,11 +42,11 @@
     "items": {
       "instantCards": {
         "title": "Emisión Instantánea",
-        "description": "Crea tarjetas virtuales Visa ilimitadas en segundos. Cada tarjeta tiene su propio BIN, saldo y controles granulares de gasto."
+        "description": "Crea tarjetas virtuales Visa y Mastercard ilimitadas en segundos. Cada tarjeta tiene su propio BIN, saldo y controles granulares de gasto."
       },
-      "cryptoTopUp": {
+      "flexibleTopUp": {
         "title": "Recarga Flexible",
-        "description": "Recarga tu saldo con cualquier monto — desde $100 hasta $10,000+. Fondea con 30+ criptomonedas incluyendo BTC, ETH, USDT y todas las stablecoins principales. Conversión instantánea."
+        "description": "Recarga tu saldo con Visa o Mastercard — desde $10 hasta $10,000+. Recargas instantáneas a tasas competitivas sin comisiones ocultas. Tu saldo está listo para gastar de inmediato."
       },
       "teamAccounts": {
         "title": "Gestión de Equipos",
@@ -67,7 +67,7 @@
     }
   },
   "benefits": {
-    "sectionTag": "Por qué Cardium",
+    "sectionTag": "Por qué AdsWall",
     "title": "Construido para marketers de performance",
     "subtitle": "Cada función está diseñada para ayudarte a gastar de forma más inteligente, escalar más rápido y mantener el control total de tus presupuestos.",
     "items": {
@@ -93,7 +93,7 @@
       },
       "automation": {
         "title": "Gestión automatizada del gasto",
-        "description": "Configura reglas y deja que Cardium haga el resto. Recargas automáticas y alertas mantienen tus campañas activas 24/7.",
+        "description": "Configura reglas y deja que AdsWall haga el resto. Recargas automáticas y alertas mantienen tus campañas activas 24/7.",
         "points": [
           "Recarga automática cuando el saldo es bajo",
           "Creación y rotación programada de tarjetas",
@@ -103,7 +103,7 @@
       },
       "growth": {
         "title": "Escala sin límites",
-        "description": "Ya sea que gestiones 10 o 10,000 tarjetas, Cardium crece contigo. Recarga tu saldo con cualquier monto y crea tantas tarjetas como necesites.",
+        "description": "Ya sea que gestiones 10 o 10,000 tarjetas, AdsWall crece contigo. Recarga tu saldo con cualquier monto y crea tantas tarjetas como necesites.",
         "points": [
           "Tarjetas virtuales ilimitadas",
           "Recarga cualquier monto, en cualquier momento",
@@ -116,7 +116,7 @@
   "integrations": {
     "sectionTag": "Integraciones",
     "title": "Funciona con cada plataforma que usas",
-    "subtitle": "Las tarjetas Cardium son aceptadas en todas las principales plataformas publicitarias y de e-commerce.",
+    "subtitle": "Las tarjetas AdsWall son aceptadas en todas las principales plataformas publicitarias y de e-commerce.",
     "platforms": {
       "google": "Google Ads",
       "meta": "Meta Ads",
@@ -131,17 +131,17 @@
   },
   "comparison": {
     "sectionTag": "Comparación",
-    "title": "Compara Cardium con la competencia",
-    "subtitle": "Construimos Cardium para ser la mejor plataforma de tarjetas virtuales para media buyers.",
+    "title": "Compara AdsWall con la competencia",
+    "subtitle": "Construimos AdsWall para ser la mejor plataforma de tarjetas virtuales para media buyers.",
     "featureLabel": "Característica",
     "competitors": {
-      "cardium": "Cardium",
+      "cardium": "AdsWall",
       "competitorA": "Competidor A",
       "competitorB": "Competidor B"
     },
     "features": {
       "instantIssuing": "Emisión instantánea",
-      "cryptoFunding": "Fondeo con cripto",
+      "cardFunding": "Fondeo con tarjeta",
       "unlimitedCards": "Tarjetas ilimitadas",
       "teamManagement": "Gestión de equipos",
       "apiAccess": "Acceso API completo",
@@ -151,7 +151,7 @@
     },
     "values": {
       "instantIssuing": { "cardium": true, "competitorA": true, "competitorB": false },
-      "cryptoFunding": { "cardium": true, "competitorA": false, "competitorB": false },
+      "cardFunding": { "cardium": true, "competitorA": false, "competitorB": false },
       "unlimitedCards": { "cardium": true, "competitorA": false, "competitorB": true },
       "teamManagement": { "cardium": true, "competitorA": true, "competitorB": false },
       "apiAccess": { "cardium": true, "competitorA": false, "competitorB": true },
@@ -170,7 +170,7 @@
       },
       "fund": {
         "title": "Recarga Cualquier Monto",
-        "description": "Agrega $100, $500, $5,000 — lo que necesiten tus campañas. Fondea con 30+ criptomonedas o transferencia bancaria. Saldo disponible al instante."
+        "description": "Agrega $10, $500, $5,000 — lo que necesiten tus campañas. Fondea con Visa o Mastercard. Saldo disponible al instante."
       },
       "spend": {
         "title": "Emite Tarjetas y Escala",
@@ -190,23 +190,23 @@
       {
         "title": "Creación de tarjetas",
         "value": "Gratis",
-        "description": "Emite tarjetas Visa ilimitadas sin costo adicional desde tu saldo"
+        "description": "Emite tarjetas Visa y Mastercard ilimitadas sin costo adicional desde tu saldo"
       },
       {
         "title": "Comisión de recarga",
-        "value": "3%",
-        "description": "Comisión fija simple en depósitos cripto. Sin cuotas mensuales"
+        "value": "0%",
+        "description": "Sin comisión de servicio en depósitos. Sin cuotas mensuales, sin cargos ocultos"
       },
       {
         "title": "Recarga mínima",
-        "value": "$100",
+        "value": "$10",
         "description": "Comienza pequeño y escala. Sin límite máximo en tu saldo"
       }
     ],
     "includesTitle": "Todo incluido con cada recarga",
     "features": [
-      "Tarjetas virtuales Visa ilimitadas",
-      "30+ opciones de recarga cripto",
+      "Tarjetas virtuales Visa y Mastercard ilimitadas",
+      "Fondeo con Visa y Mastercard",
       "Analítica de transacciones en tiempo real",
       "Gestión de equipos y roles",
       "Acceso completo a API REST",
@@ -226,14 +226,14 @@
         "name": "Sarah Chen",
         "role": "Jefa de Media Buying",
         "company": "AdScale",
-        "content": "Cardium transformó nuestro flujo de trabajo. Pasamos de 50 tarjetas manuales a 500+ con controles automatizados. El ahorro de tiempo se pagó solo en la primera semana.",
+        "content": "AdsWall transformó nuestro flujo de trabajo. Pasamos de 50 tarjetas manuales a 500+ con controles automatizados. El ahorro de tiempo se pagó solo en la primera semana.",
         "avatar": "SC"
       },
       {
         "name": "Marcus Rodriguez",
         "role": "CEO",
         "company": "ClickFlow Agency",
-        "content": "El modelo de recarga flexible es perfecto — solo agregamos fondos cuando los necesitamos. Sin cuotas mensuales comiendo nuestros márgenes. Además, el fondeo cripto nos ahorra miles cada mes.",
+        "content": "El modelo de recarga flexible es perfecto — solo agregamos fondos cuando los necesitamos. Sin cuotas mensuales comiendo nuestros márgenes. Fondear con Visa o Mastercard es rápido y seguro.",
         "avatar": "MR"
       },
       {
@@ -247,21 +247,21 @@
         "name": "James Park",
         "role": "Performance Lead",
         "company": "GrowthPulse",
-        "content": "Probamos cada proveedor de tarjetas virtuales del mercado. Cardium tuvo las tasas de aprobación más altas, la emisión más rápida y el mejor equipo de soporte.",
+        "content": "Probamos cada proveedor de tarjetas virtuales del mercado. AdsWall tuvo las tasas de aprobación más altas, la emisión más rápida y el mejor equipo de soporte.",
         "avatar": "JP"
       },
       {
         "name": "Ana Petrova",
         "role": "COO",
         "company": "AdVenture Media",
-        "content": "Gestionar gasto publicitario en 12 países era una pesadilla. El soporte multi-moneda de Cardium y los BINs localizados lo resolvieron completamente. Nuestras tasas subieron del 78% al 97%.",
+        "content": "Gestionar gasto publicitario en 12 países era una pesadilla. El soporte multi-moneda de AdsWall y los BINs localizados lo resolvieron completamente. Nuestras tasas subieron del 78% al 97%.",
         "avatar": "AP"
       },
       {
         "name": "David Kim",
         "role": "CTO",
         "company": "ScaleUp Digital",
-        "content": "La API está bellamente diseñada. Construimos un panel personalizado sobre Cardium que auto-crea tarjetas y establece presupuestos programáticamente. Plataforma increíble.",
+        "content": "La API está bellamente diseñada. Construimos un panel personalizado sobre AdsWall que auto-crea tarjetas y establece presupuestos programáticamente. Plataforma increíble.",
         "avatar": "DK"
       }
     ]
@@ -287,11 +287,11 @@
       },
       "q2": {
         "question": "¿Cómo funciona la recarga?",
-        "answer": "Simplemente elige cualquier monto desde $100 y fondea con 30+ criptomonedas incluyendo BTC, ETH, USDT y USDC. Tu saldo está disponible al instante. Sin cuotas mensuales — solo una comisión simple del 3% en depósitos cripto."
+        "answer": "Simplemente elige cualquier monto desde $10 y fondea con Visa o Mastercard. Tu saldo está disponible al instante después de la confirmación. Sin cuotas mensuales y sin cargos ocultos."
       },
       "q3": {
         "question": "¿Hay un monto mínimo o máximo de recarga?",
-        "answer": "La recarga mínima es $100. No hay máximo — recarga $100, $1,000 o $50,000 según las necesidades de tus campañas. Tu saldo completo está disponible inmediatamente."
+        "answer": "La recarga mínima es $10. No hay máximo — recarga $10, $1,000 o $50,000 según las necesidades de tus campañas. Tu saldo completo está disponible inmediatamente."
       },
       "q4": {
         "question": "¿Cómo funciona la gestión de equipos?",
@@ -299,25 +299,25 @@
       },
       "q5": {
         "question": "¿Qué plataformas publicitarias son compatibles?",
-        "answer": "Las tarjetas Cardium funcionan con todas las plataformas principales: Google Ads, Meta Ads, TikTok Ads, Microsoft Ads, Snapchat, Pinterest, Amazon Ads y más de 100 más. Nuestra infraestructura multi-BIN asegura altas tasas de aprobación."
+        "answer": "Las tarjetas AdsWall funcionan con todas las plataformas principales: Google Ads, Meta Ads, TikTok Ads, Microsoft Ads, Snapchat, Pinterest, Amazon Ads y más de 100 más. Nuestra infraestructura multi-BIN asegura altas tasas de aprobación."
       },
       "q6": {
-        "question": "¿Puedo usar Cardium para compras no publicitarias?",
-        "answer": "¡Sí! Aunque Cardium está optimizado para media buying, nuestras tarjetas Visa funcionan donde sea que acepten Visa — suscripciones SaaS, e-commerce, hosting y más."
+        "question": "¿Puedo usar AdsWall para compras no publicitarias?",
+        "answer": "¡Sí! Aunque AdsWall está optimizado para media buying, nuestras tarjetas Visa y Mastercard funcionan donde sea que acepten estas redes — suscripciones SaaS, e-commerce, hosting y más."
       },
       "q7": {
-        "question": "¿Qué criptomonedas aceptan para recarga?",
-        "answer": "Aceptamos 30+ criptomonedas incluyendo BTC, ETH, USDT (TRC20 y ERC20), USDC y todas las stablecoins principales. Conversión instantánea con tasas en tiempo real sin recargos ocultos."
+        "question": "¿Qué métodos de pago aceptan?",
+        "answer": "Aceptamos Visa y Mastercard para fondear tu saldo. Sin transferencias bancarias ni criptomonedas — solo tarjetas Visa y Mastercard para recargas rápidas y seguras."
       }
     }
   },
   "cta": {
     "title": "¿Listo para potenciar tu gasto publicitario?",
-    "subtitle": "Únete a miles de media buyers que ya escalan sus campañas con Cardium. Recarga cualquier monto y comienza a emitir tarjetas en minutos.",
+    "subtitle": "Únete a miles de media buyers que ya escalan sus campañas con AdsWall. Recarga cualquier monto y comienza a emitir tarjetas en minutos.",
     "button": "Comienza Gratis Hoy"
   },
   "footer": {
-    "description": "Infraestructura de tarjetas virtuales para equipos de marketing modernos. Emite tarjetas ilimitadas, fondea con cripto, escala campañas. Recarga cualquier monto, crea tarjetas al instante.",
+    "description": "Infraestructura de tarjetas virtuales para equipos de marketing modernos. Emite tarjetas ilimitadas, fondea con Visa o Mastercard, escala campañas. Recarga cualquier monto, crea tarjetas al instante.",
     "products": "Productos",
     "company": "Empresa",
     "legal": "Legal",
@@ -328,7 +328,7 @@
     "subscribe": "Suscribirse",
     "rights": "Todos los derechos reservados.",
     "virtualCards": "Tarjetas Virtuales",
-    "cryptoTopUp": "Recarga Cripto",
+    "cardFunding": "Fondeo con Tarjeta",
     "apiAccess": "Acceso API",
     "teamManagement": "Gestión de Equipos",
     "aboutUs": "Sobre Nosotros",
@@ -337,7 +337,7 @@
     "contact": "Contacto"
   },
   "about": {
-    "title": "Sobre Cardium",
+    "title": "Sobre AdsWall",
     "subtitle": "Construimos el futuro de los pagos digitales para equipos de marketing. Nuestra misión es hacer la infraestructura de tarjetas virtuales accesible y poderosa para empresas de todo tamaño.",
     "mission": {
       "title": "Nuestra Misión",
@@ -345,7 +345,7 @@
     },
     "story": {
       "title": "Nuestra Historia",
-      "description": "Fundada por veteranos de fintech y expertos en media buying, Cardium nació de una frustración: las soluciones de pago existentes no estaban diseñadas para la velocidad y escala del marketing digital moderno. Después de años de aprobaciones lentas, planes rígidos y comisiones opacas, decidimos construir una plataforma donde recargas cualquier monto y comienzas a gastar inmediatamente."
+      "description": "Fundada por veteranos de fintech y expertos en media buying, AdsWall nació de una frustración: las soluciones de pago existentes no estaban diseñadas para la velocidad y escala del marketing digital moderno. Después de años de aprobaciones lentas, planes rígidos y comisiones opacas, decidimos construir una plataforma donde fondeas con Visa o Mastercard y comienzas a gastar inmediatamente."
     },
     "values": {
       "title": "Nuestros Valores",
@@ -356,14 +356,14 @@
     },
     "team": {
       "title": "Nuestro Equipo",
-      "description": "Cardium está construido por un equipo global de 50+ ingenieros, especialistas fintech y expertos en marketing. Hemos procesado más de $500M en volumen mensual y emitido 2M+ tarjetas virtuales para media buyers en 150+ países."
+      "description": "AdsWall está construido por un equipo global de 50+ ingenieros, especialistas fintech y expertos en marketing. Hemos procesado más de $500M en volumen mensual y emitido 2M+ tarjetas virtuales para media buyers en 150+ países."
     },
     "whyUs": {
-      "title": "Por qué los media buyers eligen Cardium",
+      "title": "Por qué los media buyers eligen AdsWall",
       "items": [
         "Sin cuotas mensuales ni suscripciones — paga solo al recargar",
         "Emisión instantánea con soporte multi-BIN para altas tasas de aprobación",
-        "30+ criptomonedas aceptadas para fondear tu saldo",
+        "Fondea con Visa o Mastercard — simple, rápido y seguro",
         "Analítica y controles de gasto en tiempo real para cada tarjeta",
         "Confianza de 10,000+ media buyers gestionando $500M+ mensuales"
       ]
@@ -371,7 +371,7 @@
   },
   "contact": {
     "title": "Contáctanos",
-    "subtitle": "¿Tienes preguntas sobre Cardium? ¿Necesitas ayuda con tu cuenta, recargas o gestión de tarjetas? Nos encantaría saber de ti. Nuestro equipo responde en menos de 2 horas en horario laboral.",
+    "subtitle": "¿Tienes preguntas sobre AdsWall? ¿Necesitas ayuda con tu cuenta, recargas o gestión de tarjetas? Nos encantaría saber de ti. Nuestro equipo responde en menos de 2 horas en horario laboral.",
     "form": {
       "name": "Tu Nombre",
       "email": "Tu Email",
@@ -381,23 +381,23 @@
       "error": "Algo salió mal. Inténtalo de nuevo."
     },
     "info": {
-      "email": "hello@cardium.io",
-      "support": "support@cardium.io",
+      "email": "info@head-pay.com",
+      "support": "info@head-pay.com",
       "address": "123 Fintech Street, San Francisco, CA 94105"
     },
     "helpTopics": {
       "title": "Temas Comunes",
       "items": [
-        { "title": "Cuenta y Recarga", "description": "Preguntas sobre fondear tu saldo, depósitos cripto o verificación de cuenta" },
+        { "title": "Cuenta y Recarga", "description": "Preguntas sobre fondear tu saldo, depósitos con tarjeta o verificación de cuenta" },
         { "title": "Gestión de Tarjetas", "description": "Ayuda con crear, congelar o gestionar tarjetas y límites de gasto" },
         { "title": "API e Integraciones", "description": "Preguntas técnicas sobre nuestra API REST, webhooks o integraciones" },
-        { "title": "Alianzas", "description": "¿Interesado en precios por volumen, soluciones white-label o ser socio de Cardium?" }
+        { "title": "Alianzas", "description": "¿Interesado en precios por volumen, soluciones white-label o ser socio de AdsWall?" }
       ]
     }
   },
   "blog": {
     "title": "Blog",
-    "subtitle": "Insights, guías y actualizaciones del equipo Cardium. Aprende a optimizar tu gasto publicitario, gestionar tarjetas virtuales a escala y hacer crecer tu negocio de media buying.",
+    "subtitle": "Insights, guías y actualizaciones del equipo AdsWall. Aprende a optimizar tu gasto publicitario, gestionar tarjetas virtuales a escala y hacer crecer tu negocio de media buying.",
     "posts": [
       {
         "slug": "virtual-cards-media-buying-2025",
@@ -408,9 +408,9 @@
         "readTime": "8 min lectura"
       },
       {
-        "slug": "crypto-top-up-guide",
-        "title": "Guía completa de recarga cripto para gasto publicitario",
-        "excerpt": "Todo lo que necesitas saber sobre fondear tu saldo de tarjetas virtuales con criptomonedas. Desde BTC y ETH hasta stablecoins USDT — instrucciones paso a paso.",
+        "slug": "funding-guide",
+        "title": "Guía completa para fondear tu saldo con Visa y Mastercard",
+        "excerpt": "Todo lo que necesitas saber sobre fondear tu saldo de tarjetas virtuales con Visa o Mastercard. Recargas instantáneas, seguras y sin comisiones ocultas.",
         "date": "2025-01-10",
         "tag": "Tutorial",
         "readTime": "6 min lectura"
@@ -426,7 +426,7 @@
       {
         "slug": "google-ads-virtual-cards",
         "title": "Cómo configurar tarjetas virtuales para campañas de Google Ads",
-        "excerpt": "Guía paso a paso para crear y gestionar tarjetas Visa para Google Ads. Consejos para maximizar tasas de aprobación y aislar presupuestos de campaña.",
+        "excerpt": "Guía paso a paso para crear y gestionar tarjetas Visa y Mastercard para Google Ads. Consejos para maximizar tasas de aprobación y aislar presupuestos de campaña.",
         "date": "2024-12-20",
         "tag": "Tutorial",
         "readTime": "5 min lectura"
@@ -441,7 +441,7 @@
       },
       {
         "slug": "cardium-api-automation",
-        "title": "Automatiza tu gasto publicitario con la API REST de Cardium",
+        "title": "Automatiza tu gasto publicitario con la API REST de AdsWall",
         "excerpt": "Aprende a crear tarjetas programáticamente, establecer presupuestos y gestionar saldos con la API. Ejemplos en Python, Node.js y cURL.",
         "date": "2024-12-10",
         "tag": "Desarrollo",

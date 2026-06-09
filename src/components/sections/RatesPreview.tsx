@@ -8,6 +8,7 @@ import { Card } from "@/components/ui/Card";
 import { ScrollReveal } from "@/components/animations/ScrollReveal";
 import { ParallaxElement } from "@/components/animations/ParallaxElement";
 import { FloatingRings } from "@/components/ui/VectorShapes";
+import { Link } from "@/i18n/navigation";
 import { HiCheck, HiArrowRight } from "react-icons/hi2";
 
 const amounts = ["$10", "$100", "$500", "$1,000", "$5,000"];
@@ -61,10 +62,12 @@ export function RatesPreview() {
                 </span>
               </div>
               <p className="text-text-secondary text-sm max-w-md mx-auto mb-6">{t("topUpDescription")}</p>
-              <Button size="lg" className="group">
-                {t("topUpCta")}
-                <HiArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
-              </Button>
+              <Link href="/register">
+                <Button size="lg" className="group">
+                  {t("topUpCta")}
+                  <HiArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+                </Button>
+              </Link>
             </Card>
           </div>
         </ScrollReveal>

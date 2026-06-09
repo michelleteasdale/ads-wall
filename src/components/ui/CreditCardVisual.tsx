@@ -134,7 +134,7 @@ function CardFace({ config }: { config: CardConfig }) {
 
       {/* CARDIUM wordmark */}
       <text x="28" y="44" fill="white" fontSize="18" fontWeight="700" letterSpacing="2" fontFamily="var(--font-sans)">
-        CARDIUM
+        ADSWALL
       </text>
 
       {/* Platform logo — top right */}

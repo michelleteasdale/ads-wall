@@ -11,7 +11,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
   return {
-    title: `${messages.rates.title} — Cardium`,
+    title: `${messages.rates.title} — AdsWall`,
     description: messages.rates.subtitle,
   };
 }

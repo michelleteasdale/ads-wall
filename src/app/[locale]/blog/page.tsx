@@ -1,5 +1,6 @@
 import { setRequestLocale } from "next-intl/server";
 import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 import { Container } from "@/components/layout/Container";
 import { GradientText } from "@/components/ui/GradientText";
 import { Card } from "@/components/ui/Card";
@@ -13,7 +14,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "blog" });
   return {
-    title: `${t("title")} — Cardium`,
+    title: `${t("title")} — AdsWall`,
     description: t("subtitle"),
   };
 }
@@ -51,17 +52,19 @@ export default async function BlogPage({
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
             {posts.map((post) => (
-              <Card key={post.slug} className="flex flex-col">
-                <div className="flex items-center justify-between mb-4">
-                  <span className="text-xs font-semibold text-primary-600 bg-primary-50 px-2.5 py-1 rounded-full">
-                    {post.tag}
-                  </span>
-                  <span className="text-xs text-text-tertiary">{post.readTime}</span>
-                </div>
-                <h3 className="text-lg font-semibold text-text-primary mb-2 flex-1">{post.title}</h3>
-                <p className="text-sm text-text-secondary mb-4">{post.excerpt}</p>
-                <p className="text-xs text-text-tertiary font-mono">{post.date}</p>
-              </Card>
+              <Link key={post.slug} href={`/blog/${post.slug}`}>
+                <Card className="flex flex-col h-full">
+                  <div className="flex items-center justify-between mb-4">
+                    <span className="text-xs font-semibold text-primary-600 bg-primary-50 px-2.5 py-1 rounded-full">
+                      {post.tag}
+                    </span>
+                    <span className="text-xs text-text-tertiary">{post.readTime}</span>
+                  </div>
+                  <h3 className="text-lg font-semibold text-text-primary mb-2 flex-1">{post.title}</h3>
+                  <p className="text-sm text-text-secondary mb-4 line-clamp-3">{post.excerpt}</p>
+                  <p className="text-xs text-text-tertiary font-mono">{post.date}</p>
+                </Card>
+              </Link>
             ))}
           </div>
         </Container>

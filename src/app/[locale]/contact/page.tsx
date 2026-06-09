@@ -8,7 +8,7 @@ import { Button } from "@/components/ui/Button";
 import { Input, Textarea } from "@/components/ui/Input";
 import { Card } from "@/components/ui/Card";
 import { ScrollReveal } from "@/components/animations/ScrollReveal";
-import { HiEnvelope, HiMapPin, HiPhone, HiPaperAirplane, HiCheckCircle } from "react-icons/hi2";
+import { HiEnvelope, HiMapPin, HiPhone, HiBuildingOffice2, HiPaperAirplane, HiCheckCircle } from "react-icons/hi2";
 
 export default function ContactPage() {
   const t = useTranslations("contact");
@@ -89,6 +89,17 @@ export default function ContactPage() {
                 <Card hover={false}>
                   <div className="flex items-start gap-4">
                     <div className="w-10 h-10 rounded-xl bg-primary-50 flex items-center justify-center shrink-0">
+                      <HiBuildingOffice2 className="h-5 w-5 text-primary-500" />
+                    </div>
+                    <div>
+                      <h3 className="font-semibold text-text-primary mb-1">{t("info.companyName")}</h3>
+                      <p className="text-sm text-text-secondary">{t("info.companyNumber")}</p>
+                    </div>
+                  </div>
+                </Card>
+                <Card hover={false}>
+                  <div className="flex items-start gap-4">
+                    <div className="w-10 h-10 rounded-xl bg-primary-50 flex items-center justify-center shrink-0">
                       <HiEnvelope className="h-5 w-5 text-primary-500" />
                     </div>
                     <div>
@@ -103,8 +114,8 @@ export default function ContactPage() {
                       <HiPhone className="h-5 w-5 text-primary-500" />
                     </div>
                     <div>
-                      <h3 className="font-semibold text-text-primary mb-1">Support</h3>
-                      <p className="text-sm text-text-secondary">{t("info.support")}</p>
+                      <h3 className="font-semibold text-text-primary mb-1">Phone</h3>
+                      <p className="text-sm text-text-secondary">{t("info.phone")}</p>
                     </div>
                   </div>
                 </Card>
